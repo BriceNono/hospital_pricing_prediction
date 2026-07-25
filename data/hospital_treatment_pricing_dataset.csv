@@ -1,0 +1,1501 @@
+Patient_ID,Age,Gender,Diagnosis,Treatment_Type,Length_of_Stay,BMI,Smoker,Resource_Utilization,Treatment_Cost_USD
+KFH00001,82,Male,Malaria,Surgery,8,21.4,Yes,High,3256.61
+KFH00002,70,Male,Heart Disease,Emergency,2,16.7,Yes,Low,2396.91
+KFH00003,65,Male,Kidney Infection,Outpatient,23,31.6,No,Low,1855.72
+KFH00004,58,Female,Malaria,Outpatient,23,26.1,No,Low,1603.26
+KFH00005,28,Female,Typhoid,Inpatient,13,18.3,No,High,1983.4
+KFH00006,34,Male,COVID-19,Inpatient,30,25.1,No,High,3047.4
+KFH00007,80,Female,Heart Disease,Outpatient,23,17.7,Yes,Medium,3148.01
+KFH00008,11,Male,Typhoid,Emergency,9,26.9,No,Low,1586.59
+KFH00009,48,Female,Diabetes,Surgery,23,38.5,Yes,High,3956.16
+KFH00010,82,Male,Kidney Infection,Outpatient,6,27.1,No,High,1940.61
+KFH00011,89,Male,Appendicitis,Inpatient,8,35.7,No,Medium,1992.89
+KFH00012,35,Male,Diabetes,Surgery,7,31.7,No,High,3082.61
+KFH00013,59,Male,Hypertension,Outpatient,8,33.9,No,High,1748.54
+KFH00014,75,Female,Heart Disease,Emergency,12,21.3,Yes,High,3406.91
+KFH00015,64,Male,Malaria,Inpatient,5,31.1,No,High,1518.51
+KFH00016,9,Female,Fracture,Emergency,17,22,Yes,High,3172.53
+KFH00017,15,Female,Appendicitis,Inpatient,10,26.4,No,Low,1660.46
+KFH00018,34,Male,Kidney Infection,Inpatient,28,31,Yes,Low,2412.71
+KFH00019,48,Male,Kidney Infection,Inpatient,20,23.8,Yes,Low,1910.04
+KFH00020,47,Female,Diabetes,Inpatient,8,37.1,Yes,Low,1236.02
+KFH00021,63,Male,Kidney Infection,Outpatient,5,31.8,Yes,Medium,1734.88
+KFH00022,68,Female,Diabetes,Outpatient,23,23.5,No,Medium,1810.41
+KFH00023,67,Female,Typhoid,Outpatient,8,17.5,Yes,High,1815.6
+KFH00024,71,Male,Heart Disease,Outpatient,1,17.7,Yes,Low,1607.53
+KFH00025,9,Male,Appendicitis,Inpatient,17,21.7,No,Low,1973.17
+KFH00026,70,Male,Heart Disease,Emergency,8,34.8,No,Low,2557.31
+KFH00027,13,Male,Fracture,Surgery,14,25.9,Yes,High,3801.38
+KFH00028,84,Male,Malaria,Emergency,24,24.1,Yes,Low,2295.58
+KFH00029,25,Male,Kidney Infection,Emergency,5,26.1,No,Medium,1858.42
+KFH00030,32,Male,COVID-19,Inpatient,2,31.7,Yes,Low,1353.5
+KFH00031,31,Male,Fracture,Emergency,16,21.1,No,Low,2123.3
+KFH00032,22,Female,Malaria,Emergency,9,38.2,No,Medium,2043.27
+KFH00033,55,Female,Pneumonia,Outpatient,10,21.2,Yes,High,2054.38
+KFH00034,70,Male,Appendicitis,Inpatient,2,30,Yes,Low,1553.07
+KFH00035,66,Male,Pneumonia,Inpatient,20,17.6,Yes,Medium,2236.71
+KFH00036,16,Male,Heart Disease,Inpatient,20,18,No,Medium,2693.5
+KFH00037,27,Female,Diabetes,Surgery,13,19.1,No,Medium,2840.56
+KFH00038,41,Male,Malaria,Emergency,20,40,Yes,Low,1934.84
+KFH00039,69,Male,Kidney Infection,Surgery,5,38.4,Yes,Low,2532.62
+KFH00040,48,Female,Pneumonia,Emergency,27,29,No,High,3198.62
+KFH00041,84,Male,Kidney Infection,Surgery,30,31.9,Yes,Medium,4048.12
+KFH00042,15,Male,Kidney Infection,Outpatient,9,22.8,Yes,High,2194.56
+KFH00043,44,Male,Hypertension,Emergency,9,37.7,Yes,Low,1764.62
+KFH00044,82,Female,Hypertension,Inpatient,1,24,Yes,High,1753.87
+KFH00045,34,Male,COVID-19,Emergency,18,16.2,Yes,High,2973.58
+KFH00046,20,Male,Appendicitis,Outpatient,14,19.1,No,Medium,1919.12
+KFH00047,6,Female,Diabetes,Outpatient,22,18.5,No,High,2217.22
+KFH00048,20,Male,Pneumonia,Outpatient,29,25.9,Yes,High,2966.35
+KFH00049,43,Female,Diabetes,Surgery,6,34.9,Yes,Medium,2855.73
+KFH00050,5,Female,Diabetes,Outpatient,27,38,No,Medium,1858.44
+KFH00051,30,Male,Malaria,Outpatient,13,23.9,Yes,Medium,1548.39
+KFH00052,45,Female,Kidney Infection,Surgery,1,18.8,No,Low,2187.79
+KFH00053,75,Female,Malaria,Inpatient,20,26.4,No,Medium,1720.77
+KFH00054,78,Male,Fracture,Outpatient,9,17.1,No,Low,1368.9
+KFH00055,67,Male,Appendicitis,Emergency,3,38.8,No,High,2887.72
+KFH00056,41,Male,Hypertension,Surgery,22,25.8,No,High,3750.75
+KFH00057,38,Male,Diabetes,Emergency,22,38.6,Yes,High,3072.29
+KFH00058,73,Female,Fracture,Inpatient,10,22.9,No,High,2327.39
+KFH00059,78,Female,COVID-19,Emergency,15,32.2,No,High,2950.75
+KFH00060,22,Male,Hypertension,Surgery,3,35.6,Yes,High,3245.07
+KFH00061,40,Male,Diabetes,Outpatient,1,17.1,No,High,1368
+KFH00062,10,Female,Fracture,Outpatient,23,32.7,No,Medium,2211.22
+KFH00063,32,Male,Malaria,Inpatient,25,26.2,Yes,High,2568.24
+KFH00064,67,Female,Malaria,Outpatient,30,36.4,No,Low,1608.46
+KFH00065,60,Female,COVID-19,Emergency,27,37.8,No,Low,2716.5
+KFH00066,61,Female,Hypertension,Outpatient,27,31.3,No,High,2629.25
+KFH00067,31,Female,COVID-19,Inpatient,23,22.9,No,Medium,2275.86
+KFH00068,41,Male,Pneumonia,Outpatient,8,25.2,Yes,High,2116.42
+KFH00069,28,Male,Fracture,Emergency,11,29,No,Low,2078.4
+KFH00070,27,Female,Fracture,Inpatient,28,37.1,No,Medium,2578.09
+KFH00071,1,Female,Hypertension,Emergency,28,37.4,No,High,3180.37
+KFH00072,70,Male,COVID-19,Outpatient,9,26.5,Yes,Medium,1927.06
+KFH00073,44,Female,Pneumonia,Emergency,30,19.1,Yes,Medium,2941.2
+KFH00074,76,Male,Typhoid,Emergency,5,36.8,Yes,Low,1771.76
+KFH00075,34,Female,Appendicitis,Outpatient,15,23.8,No,Medium,1754.63
+KFH00076,54,Female,Typhoid,Emergency,1,34,Yes,Medium,1808.63
+KFH00077,29,Male,Malaria,Inpatient,8,20.8,Yes,High,2004.45
+KFH00078,20,Male,Pneumonia,Emergency,22,18.7,Yes,Medium,2587.62
+KFH00079,90,Female,Appendicitis,Outpatient,20,30.6,Yes,Low,2214.01
+KFH00080,40,Male,Heart Disease,Inpatient,30,23.5,No,Medium,3028.99
+KFH00081,26,Male,Heart Disease,Outpatient,4,32.7,No,High,2547.14
+KFH00082,77,Male,Heart Disease,Inpatient,12,28.8,No,Low,2316.85
+KFH00083,65,Female,Malaria,Emergency,27,27.8,No,Medium,2666.35
+KFH00084,82,Female,Pneumonia,Emergency,6,33.6,No,High,2295.81
+KFH00085,69,Female,COVID-19,Emergency,27,33.5,No,Medium,2800.48
+KFH00086,32,Male,Hypertension,Emergency,8,34,No,Medium,1759.79
+KFH00087,4,Female,Appendicitis,Outpatient,16,21.1,No,Medium,2205.35
+KFH00088,36,Female,Kidney Infection,Inpatient,17,38.8,Yes,Low,2013.45
+KFH00089,53,Female,Kidney Infection,Outpatient,23,27.4,No,Medium,1993.43
+KFH00090,3,Male,Hypertension,Outpatient,13,32.6,No,High,1974.59
+KFH00091,75,Female,COVID-19,Surgery,14,39.9,No,Medium,3221.15
+KFH00092,90,Female,Hypertension,Surgery,9,21.5,Yes,Medium,2913.74
+KFH00093,16,Male,Diabetes,Outpatient,24,27.6,No,Low,1513.75
+KFH00094,25,Female,Diabetes,Surgery,6,23.3,Yes,Medium,2717.18
+KFH00095,6,Male,Kidney Infection,Surgery,23,38.7,No,Low,3166.45
+KFH00096,2,Female,COVID-19,Emergency,15,24.2,Yes,Medium,2395.38
+KFH00097,62,Male,Typhoid,Emergency,16,17.8,Yes,Low,1964.53
+KFH00098,20,Female,Typhoid,Outpatient,4,29.4,No,High,1538.33
+KFH00099,77,Male,Kidney Infection,Emergency,15,37.8,No,High,2889.61
+KFH00100,55,Female,Heart Disease,Inpatient,20,39,Yes,Low,2816.85
+KFH00101,81,Male,Hypertension,Inpatient,6,21.8,Yes,Low,1009.16
+KFH00102,1,Female,COVID-19,Emergency,10,16.8,No,High,2583.52
+KFH00103,37,Female,Typhoid,Outpatient,30,22.3,Yes,Medium,2170.37
+KFH00104,15,Male,Pneumonia,Surgery,27,19.4,Yes,Low,3230.73
+KFH00105,40,Female,COVID-19,Inpatient,15,32.5,No,Medium,1993.15
+KFH00106,65,Female,COVID-19,Inpatient,20,17,No,High,2683.49
+KFH00107,42,Female,Malaria,Inpatient,8,39.1,Yes,High,2311.84
+KFH00108,35,Male,Pneumonia,Emergency,17,31.6,No,Low,2008.95
+KFH00109,75,Female,COVID-19,Inpatient,16,24.4,No,Medium,2042.91
+KFH00110,86,Male,Pneumonia,Surgery,14,32.6,No,High,3464.07
+KFH00111,52,Male,COVID-19,Inpatient,11,22.1,Yes,Medium,1770.25
+KFH00112,66,Male,Kidney Infection,Emergency,14,17.3,No,High,2743.32
+KFH00113,64,Female,Malaria,Outpatient,9,29.2,No,Medium,1183.23
+KFH00114,90,Female,Typhoid,Inpatient,21,30.6,Yes,High,2888.59
+KFH00115,21,Female,Kidney Infection,Inpatient,18,25.8,Yes,Low,1925.92
+KFH00116,60,Male,Pneumonia,Emergency,30,33.2,No,Medium,2852.19
+KFH00117,62,Female,Diabetes,Emergency,18,19.5,Yes,High,2913.33
+KFH00118,66,Male,Typhoid,Surgery,25,35,No,Medium,3134.76
+KFH00119,65,Female,Malaria,Surgery,24,23.2,No,Low,2983.14
+KFH00120,58,Female,Appendicitis,Surgery,18,34.3,No,Medium,3731.73
+KFH00121,42,Male,Diabetes,Emergency,8,36.5,No,Low,1697.42
+KFH00122,41,Female,Fracture,Emergency,22,35,Yes,Medium,2895.87
+KFH00123,5,Male,Kidney Infection,Surgery,28,18.4,No,Low,3480.34
+KFH00124,68,Female,Malaria,Outpatient,14,36.9,Yes,Low,1146.28
+KFH00125,61,Female,Appendicitis,Emergency,21,17.9,No,High,3449.92
+KFH00126,69,Female,Appendicitis,Emergency,28,29,Yes,Low,3377.85
+KFH00127,81,Female,Diabetes,Inpatient,14,39.5,Yes,Medium,1838.64
+KFH00128,22,Female,Malaria,Inpatient,11,35.1,No,Medium,1417.54
+KFH00129,48,Female,Pneumonia,Outpatient,17,25.9,Yes,Low,1571.46
+KFH00130,23,Male,Heart Disease,Emergency,20,32.4,No,High,3751.58
+KFH00131,19,Male,COVID-19,Surgery,15,22.1,Yes,Medium,3174.42
+KFH00132,37,Male,Typhoid,Emergency,12,39.7,No,High,2486.73
+KFH00133,55,Female,COVID-19,Surgery,7,40,No,Low,2502.52
+KFH00134,31,Female,Heart Disease,Surgery,19,23.1,No,Low,3782.33
+KFH00135,85,Female,Hypertension,Inpatient,19,36.8,Yes,High,2463.67
+KFH00136,64,Female,Diabetes,Surgery,8,31.3,No,High,3362.49
+KFH00137,85,Male,Typhoid,Inpatient,10,34.9,Yes,High,2080.51
+KFH00138,47,Male,Typhoid,Surgery,11,33.9,Yes,Low,2570.85
+KFH00139,17,Female,Kidney Infection,Surgery,27,19.9,No,Medium,3677.12
+KFH00140,44,Male,COVID-19,Inpatient,5,34.1,Yes,High,2172.8
+KFH00141,87,Female,Kidney Infection,Surgery,3,35,Yes,Medium,2922.3
+KFH00142,69,Male,COVID-19,Surgery,22,34,No,High,4156.86
+KFH00143,49,Female,Typhoid,Outpatient,16,16.6,No,High,1730.1
+KFH00144,29,Male,COVID-19,Surgery,21,25.8,Yes,Low,3341.16
+KFH00145,5,Female,COVID-19,Inpatient,4,21.6,Yes,Medium,1749.19
+KFH00146,59,Female,Kidney Infection,Emergency,19,33.8,Yes,Medium,2822.82
+KFH00147,84,Male,COVID-19,Emergency,9,16.8,No,Low,1645.57
+KFH00148,57,Female,Diabetes,Surgery,4,39.5,No,High,2899.05
+KFH00149,83,Female,Malaria,Emergency,9,20.6,Yes,Medium,1995.63
+KFH00150,12,Male,Heart Disease,Inpatient,2,34.9,Yes,Low,2140.14
+KFH00151,73,Male,Typhoid,Outpatient,19,21.2,Yes,Medium,1796.06
+KFH00152,19,Male,Hypertension,Outpatient,5,29,Yes,Low,1016.57
+KFH00153,85,Male,Pneumonia,Inpatient,12,35,Yes,High,2323.4
+KFH00154,42,Male,Pneumonia,Surgery,2,19,No,High,2952.87
+KFH00155,15,Male,COVID-19,Emergency,25,24.7,Yes,Medium,3008.67
+KFH00156,65,Male,Heart Disease,Inpatient,24,34.8,No,Medium,2998.28
+KFH00157,83,Male,Malaria,Emergency,28,25.6,Yes,Medium,2941.89
+KFH00158,57,Male,Typhoid,Surgery,20,19.6,Yes,Medium,3254.86
+KFH00159,80,Female,Fracture,Surgery,15,28.1,No,Low,2847.54
+KFH00160,90,Male,Kidney Infection,Outpatient,14,26.8,Yes,Medium,1972.79
+KFH00161,44,Female,Fracture,Emergency,24,18.3,No,Medium,2684.54
+KFH00162,86,Female,Appendicitis,Outpatient,22,38.2,Yes,Low,2415.45
+KFH00163,11,Male,Fracture,Inpatient,24,33.7,Yes,High,3317.53
+KFH00164,8,Female,Typhoid,Emergency,12,37,No,High,2366.52
+KFH00165,7,Female,Heart Disease,Surgery,12,18.5,Yes,Low,3738.11
+KFH00166,85,Female,Diabetes,Inpatient,12,36.3,No,Low,1411.03
+KFH00167,36,Male,Fracture,Inpatient,20,38.3,No,Low,2140.15
+KFH00168,24,Female,Hypertension,Surgery,12,16.1,Yes,High,3618.12
+KFH00169,85,Female,Typhoid,Outpatient,24,31.2,Yes,Low,1686.55
+KFH00170,68,Male,Fracture,Emergency,15,24.2,No,Medium,2380.55
+KFH00171,42,Male,Malaria,Outpatient,6,34.1,Yes,High,1673.76
+KFH00172,11,Female,COVID-19,Emergency,16,30.6,No,Medium,2345.1
+KFH00173,28,Male,Appendicitis,Emergency,4,22.8,No,High,2714.75
+KFH00174,86,Female,Malaria,Outpatient,13,39.6,Yes,Low,1328.94
+KFH00175,27,Female,Diabetes,Outpatient,25,22.1,No,Low,1643.7
+KFH00176,1,Female,Fracture,Outpatient,5,25.1,Yes,High,2274.76
+KFH00177,72,Female,Typhoid,Emergency,28,33.8,No,Low,2290.56
+KFH00178,59,Male,Appendicitis,Emergency,19,25.7,No,Medium,3012.92
+KFH00179,15,Female,Malaria,Surgery,6,35.2,No,High,2954.24
+KFH00180,47,Male,Fracture,Inpatient,8,26.5,No,High,2628.92
+KFH00181,11,Female,Hypertension,Surgery,8,24,Yes,Low,2545.08
+KFH00182,66,Male,Kidney Infection,Outpatient,29,34.6,No,High,2730.14
+KFH00183,83,Male,Diabetes,Inpatient,5,22.1,Yes,High,1881.99
+KFH00184,20,Male,Pneumonia,Emergency,15,34.1,No,High,2778.4
+KFH00185,73,Female,Appendicitis,Outpatient,15,17.6,No,High,2511.18
+KFH00186,39,Female,Heart Disease,Inpatient,12,28.2,No,Medium,2656.68
+KFH00187,58,Male,Malaria,Surgery,27,22.9,Yes,High,4021.29
+KFH00188,77,Female,COVID-19,Inpatient,15,37.8,Yes,Medium,2230.26
+KFH00189,78,Female,Kidney Infection,Outpatient,2,26.8,No,High,1612.38
+KFH00190,11,Male,Malaria,Outpatient,23,26.5,No,High,2040.72
+KFH00191,67,Male,Appendicitis,Surgery,30,22.8,No,Medium,4010.42
+KFH00192,87,Male,Appendicitis,Inpatient,11,18.3,No,Medium,2184.27
+KFH00193,33,Male,Appendicitis,Inpatient,19,31.9,No,Medium,2495.19
+KFH00194,84,Female,Pneumonia,Inpatient,10,29.4,No,Low,1147.51
+KFH00195,86,Male,Fracture,Surgery,1,24.7,Yes,Low,2634.28
+KFH00196,44,Female,Diabetes,Outpatient,5,19.7,No,Low,844.74
+KFH00197,65,Male,Appendicitis,Outpatient,20,25,Yes,Low,2068.94
+KFH00198,89,Male,COVID-19,Inpatient,14,24.7,Yes,Medium,2151.95
+KFH00199,79,Female,COVID-19,Outpatient,18,21.7,No,Low,1585.49
+KFH00200,48,Female,COVID-19,Surgery,25,25.2,No,Low,3138.84
+KFH00201,26,Male,Hypertension,Inpatient,21,27.5,No,High,2450.43
+KFH00202,14,Male,Hypertension,Inpatient,25,19.8,No,High,2596.29
+KFH00203,19,Female,Typhoid,Outpatient,27,26.8,No,Low,1743.97
+KFH00204,54,Male,Fracture,Surgery,8,25.3,Yes,Medium,3322.96
+KFH00205,29,Male,Appendicitis,Inpatient,27,33.2,No,Low,2330.68
+KFH00206,18,Male,Hypertension,Emergency,23,35.9,No,Medium,2316.96
+KFH00207,79,Male,Typhoid,Inpatient,9,21.2,Yes,High,2127.8
+KFH00208,78,Female,Typhoid,Surgery,8,23.2,Yes,Low,2497.65
+KFH00209,54,Female,Typhoid,Inpatient,27,37.7,Yes,High,2930.31
+KFH00210,66,Male,Pneumonia,Surgery,14,16,No,Low,3052.33
+KFH00211,74,Female,Pneumonia,Inpatient,17,39.4,Yes,High,2695.51
+KFH00212,70,Male,Fracture,Emergency,2,31.3,No,Medium,2122.77
+KFH00213,3,Female,Typhoid,Surgery,8,33.6,Yes,High,3402.48
+KFH00214,43,Male,Malaria,Surgery,18,24.1,Yes,High,3688.67
+KFH00215,60,Female,Pneumonia,Outpatient,3,33.2,No,Low,798.17
+KFH00216,38,Male,Malaria,Outpatient,29,17,No,High,2506.08
+KFH00217,51,Female,Hypertension,Inpatient,25,31.5,No,Medium,1994.76
+KFH00218,7,Female,Hypertension,Inpatient,26,24.8,No,High,2565.58
+KFH00219,57,Female,Appendicitis,Outpatient,16,32.6,No,High,2594.76
+KFH00220,35,Male,Fracture,Inpatient,14,30.5,Yes,High,2772.32
+KFH00221,38,Female,Typhoid,Inpatient,11,31.9,No,Medium,1777.26
+KFH00222,78,Female,Pneumonia,Emergency,12,26.7,No,High,2339.43
+KFH00223,56,Female,Malaria,Inpatient,22,31.3,No,High,2488.85
+KFH00224,87,Male,Malaria,Outpatient,28,30.6,No,Low,1449.47
+KFH00225,17,Male,Diabetes,Surgery,12,25.2,Yes,High,3449.37
+KFH00226,20,Female,Appendicitis,Surgery,15,34.3,Yes,High,4352.17
+KFH00227,47,Female,Appendicitis,Surgery,8,39.1,Yes,High,3973.21
+KFH00228,24,Female,Kidney Infection,Emergency,30,29.5,No,Medium,2818.17
+KFH00229,58,Male,Heart Disease,Surgery,23,38,No,Low,3874.16
+KFH00230,16,Male,Typhoid,Emergency,6,37.6,No,Low,1509.55
+KFH00231,88,Female,Appendicitis,Inpatient,18,29,No,Low,2027.36
+KFH00232,90,Male,Appendicitis,Outpatient,4,39.6,Yes,Low,1633.98
+KFH00233,64,Male,Appendicitis,Surgery,15,35.3,Yes,High,4231.97
+KFH00234,12,Male,Hypertension,Emergency,23,33.3,No,Medium,2338.31
+KFH00235,74,Male,Pneumonia,Surgery,21,17.8,No,High,3936.27
+KFH00236,67,Female,Pneumonia,Outpatient,25,39.2,No,High,2622.07
+KFH00237,8,Male,Kidney Infection,Outpatient,10,20,No,High,1756.98
+KFH00238,29,Female,Kidney Infection,Surgery,28,17.9,Yes,High,4331.87
+KFH00239,71,Female,Pneumonia,Surgery,20,28.8,Yes,High,3814.59
+KFH00240,75,Male,Pneumonia,Surgery,27,38.2,Yes,Low,3523.29
+KFH00241,11,Male,Heart Disease,Surgery,21,21.1,No,High,4500.4
+KFH00242,82,Male,COVID-19,Surgery,21,39,No,Low,3171.23
+KFH00243,88,Female,Hypertension,Emergency,3,32.5,Yes,Medium,1873.1
+KFH00244,54,Female,COVID-19,Outpatient,11,30.6,No,High,2246.89
+KFH00245,41,Female,Fracture,Outpatient,25,24.9,Yes,Medium,2330.46
+KFH00246,31,Female,Typhoid,Surgery,15,22,Yes,Low,2669.86
+KFH00247,38,Female,Heart Disease,Emergency,8,39.1,Yes,Medium,3008.51
+KFH00248,74,Female,Diabetes,Outpatient,16,39.9,No,Medium,1561.1
+KFH00249,40,Female,Malaria,Inpatient,13,28.1,Yes,Low,1642.35
+KFH00250,75,Female,Malaria,Inpatient,10,27.9,No,Medium,1458.1
+KFH00251,69,Male,Typhoid,Emergency,5,37.2,No,Medium,1534.69
+KFH00252,47,Male,Fracture,Inpatient,19,29.5,No,High,2867.64
+KFH00253,37,Male,Fracture,Emergency,25,29.2,Yes,Low,3050.66
+KFH00254,13,Female,Appendicitis,Surgery,18,38.5,Yes,Low,3686.4
+KFH00255,78,Female,Kidney Infection,Inpatient,2,16.9,No,Medium,1182.18
+KFH00256,67,Female,Pneumonia,Outpatient,11,38.4,No,Low,1123.89
+KFH00257,51,Female,Heart Disease,Surgery,17,35.9,No,High,4661.53
+KFH00258,73,Female,COVID-19,Inpatient,12,23.9,Yes,Medium,1964.58
+KFH00259,75,Female,Malaria,Emergency,9,39.2,Yes,High,2579.26
+KFH00260,7,Female,Pneumonia,Emergency,5,35.7,Yes,Low,1821.46
+KFH00261,74,Male,Diabetes,Inpatient,15,23.5,Yes,Medium,1806.27
+KFH00262,89,Male,Fracture,Emergency,28,36.4,Yes,High,3744.86
+KFH00263,18,Male,Kidney Infection,Surgery,22,27.5,No,Medium,3028.55
+KFH00264,23,Female,Kidney Infection,Surgery,18,24.5,No,High,3619.57
+KFH00265,62,Male,Diabetes,Surgery,18,23.2,No,Medium,3005.69
+KFH00266,27,Female,Appendicitis,Emergency,12,29.5,No,Medium,2427.77
+KFH00267,16,Female,Fracture,Surgery,25,35.3,No,Low,3622.39
+KFH00268,37,Male,Appendicitis,Emergency,21,22.2,No,Low,2429.38
+KFH00269,26,Female,Kidney Infection,Surgery,5,18.6,Yes,Low,2540.19
+KFH00270,7,Male,Diabetes,Inpatient,4,25.9,No,Low,1005.19
+KFH00271,88,Male,Malaria,Outpatient,14,31.7,No,Medium,1561.45
+KFH00272,84,Male,Hypertension,Surgery,10,31.5,Yes,High,3215.2
+KFH00273,74,Male,Kidney Infection,Inpatient,30,38.1,No,Low,2430.08
+KFH00274,5,Female,COVID-19,Outpatient,30,34,No,Low,2121.23
+KFH00275,2,Female,Heart Disease,Inpatient,30,39.6,No,Medium,3230.22
+KFH00276,83,Female,Pneumonia,Emergency,9,20.6,Yes,Medium,2168.45
+KFH00277,21,Female,Hypertension,Outpatient,1,33.7,No,High,1462.39
+KFH00278,87,Male,Pneumonia,Emergency,27,26.3,No,Low,2289.47
+KFH00279,52,Male,Pneumonia,Outpatient,16,23.8,Yes,Low,1517.38
+KFH00280,34,Female,Diabetes,Emergency,25,22.4,No,Medium,2465.76
+KFH00281,75,Male,Hypertension,Surgery,23,21.7,Yes,Medium,3372.12
+KFH00282,40,Male,Fracture,Surgery,23,18.8,No,Medium,3643.46
+KFH00283,79,Male,Diabetes,Outpatient,16,19.7,No,Medium,1728.82
+KFH00284,90,Female,Kidney Infection,Outpatient,25,21.9,Yes,High,2660.96
+KFH00285,58,Female,Typhoid,Inpatient,2,35.9,Yes,High,2115.46
+KFH00286,69,Male,Pneumonia,Surgery,28,28.5,Yes,High,3978.25
+KFH00287,27,Female,Typhoid,Emergency,26,17.3,Yes,High,3108.29
+KFH00288,54,Female,Heart Disease,Inpatient,18,27.1,No,High,3376.1
+KFH00289,3,Female,Hypertension,Inpatient,24,21.2,Yes,Low,1929.72
+KFH00290,55,Female,Typhoid,Inpatient,30,37.5,No,Low,1912.78
+KFH00291,37,Female,Pneumonia,Outpatient,25,31.4,No,Medium,1982.03
+KFH00292,49,Female,Fracture,Emergency,3,32.4,Yes,High,2672.84
+KFH00293,45,Male,Pneumonia,Emergency,17,19.1,Yes,Low,2054.78
+KFH00294,3,Female,COVID-19,Emergency,18,25.1,Yes,Low,2497.45
+KFH00295,59,Female,Pneumonia,Surgery,7,38.5,Yes,Low,2665.34
+KFH00296,85,Female,Heart Disease,Inpatient,8,20.9,Yes,High,2991.35
+KFH00297,5,Female,Heart Disease,Inpatient,8,33.8,No,Medium,2546.95
+KFH00298,30,Male,Malaria,Outpatient,17,39.8,Yes,High,2285.88
+KFH00299,74,Female,Heart Disease,Surgery,8,23.2,Yes,High,4383.54
+KFH00300,67,Male,Fracture,Surgery,9,17.5,Yes,High,3773.06
+KFH00301,87,Female,Kidney Infection,Emergency,2,39.3,No,High,2277.02
+KFH00302,41,Female,Fracture,Outpatient,10,25,No,Low,1307.78
+KFH00303,29,Female,Pneumonia,Emergency,30,17.4,No,Medium,2826.68
+KFH00304,72,Male,Fracture,Outpatient,9,20.9,Yes,Medium,1887.74
+KFH00305,48,Male,Kidney Infection,Outpatient,2,22.4,Yes,Low,1089.49
+KFH00306,25,Male,COVID-19,Outpatient,28,37.8,No,Low,2073.08
+KFH00307,28,Male,Typhoid,Emergency,30,21.8,Yes,Medium,2962.32
+KFH00308,31,Female,Hypertension,Emergency,15,28.8,No,Medium,2003.01
+KFH00309,34,Female,Kidney Infection,Emergency,15,18.4,No,Medium,2357.65
+KFH00310,27,Female,Appendicitis,Emergency,2,29.5,Yes,High,2853.24
+KFH00311,19,Male,Hypertension,Emergency,10,19.7,No,Low,1502.38
+KFH00312,49,Male,COVID-19,Surgery,9,34.3,No,High,3613.35
+KFH00313,83,Female,COVID-19,Outpatient,24,35.1,Yes,Low,2184.55
+KFH00314,70,Female,Pneumonia,Inpatient,17,16.8,Yes,High,2611.62
+KFH00315,7,Male,Fracture,Outpatient,27,31.1,Yes,High,3242.16
+KFH00316,20,Male,Diabetes,Emergency,12,17.5,No,High,2470.02
+KFH00317,63,Male,Malaria,Emergency,1,16.4,No,High,1973.83
+KFH00318,37,Male,Kidney Infection,Emergency,26,38.6,Yes,Low,2695.77
+KFH00319,13,Male,Diabetes,Outpatient,20,28.6,No,Medium,1781.9
+KFH00320,51,Male,Appendicitis,Emergency,15,29.6,Yes,Medium,2882.38
+KFH00321,88,Male,Malaria,Inpatient,13,25.1,No,Low,1227.14
+KFH00322,82,Male,Pneumonia,Inpatient,16,36.3,No,High,2442.92
+KFH00323,13,Male,Diabetes,Outpatient,29,36.8,No,Medium,2045.81
+KFH00324,6,Male,Hypertension,Inpatient,6,38.3,No,Low,1312.59
+KFH00325,27,Male,Fracture,Inpatient,10,19.9,Yes,High,2428.78
+KFH00326,50,Female,Fracture,Outpatient,26,39.7,Yes,High,2942.8
+KFH00327,45,Male,Typhoid,Emergency,8,36.1,No,High,2439.47
+KFH00328,79,Female,Appendicitis,Inpatient,21,22.6,No,Medium,2598
+KFH00329,30,Female,Kidney Infection,Emergency,14,20.5,No,Low,2037.39
+KFH00330,80,Female,Diabetes,Inpatient,3,22.4,No,High,1807.4
+KFH00331,82,Male,Fracture,Surgery,12,18.6,Yes,Medium,3321.53
+KFH00332,57,Female,Hypertension,Inpatient,5,18.1,No,Medium,1112.83
+KFH00333,72,Female,Typhoid,Inpatient,3,24.5,Yes,High,1851.6
+KFH00334,77,Female,Fracture,Inpatient,10,25.9,Yes,High,2498.24
+KFH00335,72,Male,Heart Disease,Outpatient,22,25.1,Yes,Medium,3072.51
+KFH00336,39,Female,COVID-19,Outpatient,3,20,No,Medium,1252.35
+KFH00337,39,Female,Typhoid,Surgery,9,38.7,No,High,3054.44
+KFH00338,79,Male,COVID-19,Inpatient,5,23.3,No,Medium,1527.93
+KFH00339,80,Female,Appendicitis,Emergency,11,26.3,Yes,Medium,2771.05
+KFH00340,42,Male,COVID-19,Surgery,6,39.1,No,Medium,2817.85
+KFH00341,89,Female,Heart Disease,Outpatient,11,25,No,Medium,2216.33
+KFH00342,15,Male,Heart Disease,Outpatient,22,34.4,Yes,High,3531.24
+KFH00343,60,Male,COVID-19,Surgery,27,32.6,No,High,4222.4
+KFH00344,64,Male,Hypertension,Outpatient,9,31.8,No,Medium,1188.17
+KFH00345,10,Female,Heart Disease,Emergency,19,25.6,No,High,3681.48
+KFH00346,5,Female,Kidney Infection,Inpatient,4,34.5,No,Low,1260.35
+KFH00347,83,Male,Heart Disease,Emergency,25,24,No,Low,2996.23
+KFH00348,2,Male,Hypertension,Outpatient,17,33.9,Yes,Medium,1610.6
+KFH00349,48,Female,COVID-19,Outpatient,12,39.9,No,Low,1343.29
+KFH00350,38,Female,Typhoid,Inpatient,27,38.6,Yes,Medium,2347.39
+KFH00351,40,Female,COVID-19,Outpatient,17,27.6,No,Low,1605.31
+KFH00352,57,Female,Appendicitis,Inpatient,10,17.1,Yes,Low,2112.54
+KFH00353,44,Male,Pneumonia,Outpatient,17,20.2,Yes,Medium,1933.92
+KFH00354,72,Female,COVID-19,Outpatient,26,25.7,Yes,Low,2099.31
+KFH00355,82,Female,Fracture,Inpatient,24,30.7,Yes,Medium,2661.22
+KFH00356,76,Female,Fracture,Inpatient,23,21.2,No,High,2755.7
+KFH00357,9,Male,Kidney Infection,Outpatient,12,23.8,No,Low,1296.78
+KFH00358,34,Female,Kidney Infection,Surgery,20,25.3,No,High,3791.86
+KFH00359,15,Female,Appendicitis,Emergency,20,20.1,No,High,3389.23
+KFH00360,76,Male,Pneumonia,Surgery,4,21.7,Yes,Low,2319.23
+KFH00361,48,Male,Kidney Infection,Emergency,14,30.3,No,Medium,2373.82
+KFH00362,24,Female,Kidney Infection,Outpatient,18,20,No,Low,1703.93
+KFH00363,24,Female,COVID-19,Inpatient,28,24.6,Yes,Medium,2679.95
+KFH00364,18,Male,Fracture,Emergency,14,32.4,No,High,3020.21
+KFH00365,57,Female,Pneumonia,Inpatient,19,16.7,Yes,Medium,2176.32
+KFH00366,5,Female,Diabetes,Surgery,6,34.7,No,High,3065.35
+KFH00367,66,Male,Heart Disease,Inpatient,9,34.6,No,High,3009.89
+KFH00368,6,Female,Kidney Infection,Outpatient,14,18.5,Yes,Medium,1854.01
+KFH00369,5,Female,Hypertension,Surgery,28,35.6,No,Low,3139.72
+KFH00370,31,Male,Heart Disease,Surgery,28,33.1,No,Low,4042.74
+KFH00371,79,Male,Diabetes,Outpatient,26,17.4,No,High,2429.94
+KFH00372,36,Male,Appendicitis,Surgery,10,29.7,Yes,Low,3258.26
+KFH00373,53,Male,Hypertension,Outpatient,23,36.8,Yes,Low,1908.14
+KFH00374,42,Male,Fracture,Emergency,5,29.9,No,High,2714.61
+KFH00375,54,Female,COVID-19,Inpatient,21,35.1,Yes,Medium,2723.88
+KFH00376,66,Female,Appendicitis,Emergency,16,23.9,Yes,High,3317.42
+KFH00377,12,Female,Appendicitis,Inpatient,26,28.8,Yes,Medium,3038.68
+KFH00378,28,Female,Hypertension,Surgery,27,22.8,Yes,High,4046
+KFH00379,63,Female,Malaria,Inpatient,4,31,No,Low,1147.78
+KFH00380,16,Male,COVID-19,Emergency,1,39.8,No,Low,1492
+KFH00381,89,Male,Hypertension,Outpatient,28,38.4,No,Low,1641.23
+KFH00382,84,Female,Hypertension,Inpatient,12,31.9,Yes,Low,1397.57
+KFH00383,51,Female,Diabetes,Emergency,21,18.2,Yes,Low,1976.13
+KFH00384,28,Female,Typhoid,Outpatient,19,21.4,No,Low,1203.91
+KFH00385,2,Female,Typhoid,Emergency,23,19.2,Yes,Low,2124.9
+KFH00386,50,Male,Typhoid,Inpatient,11,24.8,No,Low,1182.05
+KFH00387,49,Male,Pneumonia,Inpatient,17,29.5,Yes,Medium,2118.51
+KFH00388,45,Male,Pneumonia,Emergency,20,32.5,Yes,Low,2537.64
+KFH00389,13,Male,Typhoid,Emergency,12,39.1,No,Low,1789.55
+KFH00390,32,Female,Typhoid,Outpatient,18,30.4,No,High,2002.77
+KFH00391,4,Female,Diabetes,Outpatient,24,25.4,Yes,Low,1679.19
+KFH00392,64,Female,Typhoid,Outpatient,16,31.3,Yes,High,2255.53
+KFH00393,2,Female,Appendicitis,Outpatient,13,36.7,No,Medium,1895.07
+KFH00394,70,Male,COVID-19,Inpatient,1,30.1,Yes,Medium,1860.28
+KFH00395,28,Male,Malaria,Emergency,17,22.9,No,Medium,2206.03
+KFH00396,90,Female,Typhoid,Outpatient,9,18,Yes,High,1793.7
+KFH00397,27,Male,Kidney Infection,Surgery,13,30.1,Yes,Medium,3064.92
+KFH00398,90,Female,Diabetes,Inpatient,8,18.1,No,Low,1272.96
+KFH00399,59,Male,Hypertension,Outpatient,4,16.3,Yes,High,1657.76
+KFH00400,2,Male,COVID-19,Surgery,17,28.4,No,Low,3120.54
+KFH00401,48,Male,Hypertension,Inpatient,25,37.6,No,Medium,1926.67
+KFH00402,35,Male,Hypertension,Inpatient,16,26.9,No,Low,1332.57
+KFH00403,64,Male,Appendicitis,Outpatient,9,34.6,Yes,Low,1783.63
+KFH00404,66,Male,Malaria,Inpatient,8,17.1,No,Medium,1281.14
+KFH00405,20,Male,Malaria,Emergency,8,23.7,No,High,2154.49
+KFH00406,41,Female,Typhoid,Surgery,4,28,Yes,Low,2374.74
+KFH00407,29,Male,Fracture,Inpatient,29,27.2,No,Medium,2517.89
+KFH00408,42,Male,Kidney Infection,Emergency,1,24.9,No,High,2247.41
+KFH00409,39,Male,COVID-19,Surgery,19,39.3,Yes,High,4120.94
+KFH00410,70,Male,Pneumonia,Inpatient,30,25.8,Yes,High,3140.73
+KFH00411,45,Male,Appendicitis,Inpatient,25,31.8,No,Low,2494.39
+KFH00412,27,Male,Fracture,Emergency,2,39.3,Yes,High,2591.54
+KFH00413,36,Male,Malaria,Outpatient,29,36.3,No,High,2327.41
+KFH00414,48,Female,Typhoid,Inpatient,17,19.2,No,Low,1529.32
+KFH00415,76,Male,Fracture,Outpatient,8,23,No,Medium,1624.88
+KFH00416,90,Female,Appendicitis,Emergency,9,21.6,Yes,Low,2228.18
+KFH00417,75,Male,Pneumonia,Inpatient,6,26.8,No,Medium,1610.14
+KFH00418,16,Female,Diabetes,Emergency,10,27.1,Yes,Low,1849.38
+KFH00419,21,Female,Heart Disease,Inpatient,7,36.1,No,Low,2252.02
+KFH00420,12,Male,Appendicitis,Emergency,17,17.2,No,Medium,2724.1
+KFH00421,23,Male,Fracture,Emergency,18,34,Yes,Low,2787.29
+KFH00422,60,Male,Pneumonia,Inpatient,1,17.5,Yes,Low,1288.14
+KFH00423,26,Female,Appendicitis,Inpatient,19,30.1,Yes,Low,2330.62
+KFH00424,9,Male,COVID-19,Outpatient,3,37.7,No,Low,1175.09
+KFH00425,6,Female,Malaria,Outpatient,30,29.8,No,Medium,2096.45
+KFH00426,4,Female,Fracture,Outpatient,12,21.2,Yes,Medium,2100.24
+KFH00427,36,Female,Pneumonia,Inpatient,20,30.9,Yes,High,2588.71
+KFH00428,38,Female,Fracture,Emergency,2,18.1,No,Low,1702.83
+KFH00429,54,Male,Kidney Infection,Outpatient,21,39.9,Yes,Medium,2366.51
+KFH00430,46,Female,Kidney Infection,Emergency,12,37.9,No,Medium,2058.45
+KFH00431,35,Male,Malaria,Surgery,20,21.3,No,Low,2534.51
+KFH00432,61,Female,Heart Disease,Outpatient,6,18.4,Yes,Medium,2037.29
+KFH00433,69,Male,Diabetes,Emergency,12,38.4,Yes,Low,1939.67
+KFH00434,31,Female,Appendicitis,Inpatient,23,32.8,Yes,High,3420.11
+KFH00435,25,Female,Kidney Infection,Surgery,6,27.8,Yes,Low,2859.28
+KFH00436,30,Male,Malaria,Emergency,1,24,Yes,Low,1338.89
+KFH00437,44,Male,Appendicitis,Inpatient,1,19.5,Yes,Low,1782.93
+KFH00438,68,Female,Typhoid,Surgery,23,38.6,No,High,3547.39
+KFH00439,13,Female,Hypertension,Surgery,5,39.4,No,High,2822.59
+KFH00440,63,Female,Pneumonia,Surgery,8,32,Yes,Medium,2923.33
+KFH00441,40,Female,Pneumonia,Outpatient,24,16,No,High,2436.09
+KFH00442,5,Male,Heart Disease,Surgery,30,35.4,Yes,High,5223.08
+KFH00443,73,Male,COVID-19,Outpatient,11,33.9,Yes,Medium,1611.41
+KFH00444,41,Male,Typhoid,Surgery,15,16.3,Yes,Low,2670.81
+KFH00445,89,Male,Appendicitis,Surgery,26,18.6,Yes,Low,3626.46
+KFH00446,50,Female,Fracture,Outpatient,29,25.9,No,Medium,2519.86
+KFH00447,70,Female,Typhoid,Emergency,26,36.7,Yes,Low,2467.49
+KFH00448,58,Male,Malaria,Surgery,1,23.6,Yes,Low,2015.21
+KFH00449,44,Male,Fracture,Outpatient,24,17.8,Yes,Medium,2337.34
+KFH00450,77,Female,Malaria,Emergency,21,20,No,Low,1782.89
+KFH00451,7,Male,Appendicitis,Outpatient,7,25.8,No,High,2251.48
+KFH00452,37,Female,Diabetes,Inpatient,2,25.4,No,Low,1021.62
+KFH00453,7,Female,Malaria,Emergency,3,23.1,No,Low,1087.21
+KFH00454,13,Male,Diabetes,Outpatient,21,23,Yes,Medium,2015.49
+KFH00455,15,Female,Fracture,Emergency,16,37.5,No,Low,2213.87
+KFH00456,83,Female,Pneumonia,Surgery,29,25.2,Yes,Medium,3640.86
+KFH00457,6,Female,COVID-19,Emergency,9,21.4,No,High,2604.16
+KFH00458,8,Male,Typhoid,Inpatient,22,24.3,No,High,2277.27
+KFH00459,30,Male,Fracture,Emergency,18,32.5,No,High,3066.06
+KFH00460,31,Female,Hypertension,Inpatient,13,37.7,Yes,High,2194.75
+KFH00461,74,Male,Typhoid,Emergency,6,38.8,Yes,Low,1869.77
+KFH00462,25,Male,Malaria,Emergency,3,39.7,No,Low,1292.73
+KFH00463,81,Male,Heart Disease,Surgery,11,37.9,Yes,Low,3595.53
+KFH00464,50,Female,Kidney Infection,Surgery,28,22.6,No,Low,3358.68
+KFH00465,90,Female,Typhoid,Emergency,5,19.6,Yes,Low,1484.52
+KFH00466,73,Male,Hypertension,Surgery,29,25.9,No,High,3892.98
+KFH00467,63,Female,Malaria,Outpatient,9,25.7,No,Low,932.2
+KFH00468,51,Female,Diabetes,Inpatient,24,27.4,No,Medium,2187.9
+KFH00469,3,Female,Hypertension,Surgery,9,36.2,Yes,Low,2507.34
+KFH00470,18,Female,COVID-19,Surgery,9,33.5,Yes,Low,2808.4
+KFH00471,57,Male,Fracture,Emergency,25,28.4,No,Low,2558.99
+KFH00472,66,Male,Typhoid,Surgery,23,28.2,Yes,High,3584.77
+KFH00473,73,Male,Pneumonia,Outpatient,29,36,Yes,Low,1908.18
+KFH00474,5,Female,Malaria,Surgery,23,20.8,No,Medium,3258.02
+KFH00475,65,Female,Typhoid,Inpatient,8,24.9,No,Low,1241.9
+KFH00476,61,Female,Appendicitis,Outpatient,27,37.5,Yes,Medium,2787.62
+KFH00477,4,Female,Malaria,Outpatient,28,29.7,Yes,Low,1907.69
+KFH00478,83,Male,Diabetes,Surgery,21,25.8,Yes,High,3906.35
+KFH00479,2,Female,Pneumonia,Outpatient,20,35.2,Yes,Medium,2395.47
+KFH00480,78,Female,Hypertension,Emergency,29,25,No,Medium,2749.35
+KFH00481,33,Male,COVID-19,Surgery,22,28.5,No,High,3957.15
+KFH00482,14,Male,Kidney Infection,Surgery,18,31.5,No,Medium,3162.84
+KFH00483,88,Male,COVID-19,Inpatient,11,39.7,No,Medium,1695.73
+KFH00484,34,Female,Diabetes,Outpatient,17,34.4,Yes,High,2376.42
+KFH00485,52,Female,Pneumonia,Inpatient,21,27.9,No,Medium,1938.74
+KFH00486,54,Female,Fracture,Inpatient,19,33,Yes,Medium,2304.33
+KFH00487,29,Female,Appendicitis,Surgery,28,20.1,Yes,Medium,4092.91
+KFH00488,13,Female,Pneumonia,Surgery,24,35.4,Yes,High,3957.21
+KFH00489,43,Male,Diabetes,Surgery,8,33.9,No,Medium,2891.96
+KFH00490,43,Female,Hypertension,Surgery,15,36.4,No,Low,2717.8
+KFH00491,82,Male,COVID-19,Outpatient,17,18.9,No,High,2323.54
+KFH00492,39,Female,Malaria,Outpatient,5,39.8,No,Medium,1246.59
+KFH00493,73,Female,Pneumonia,Surgery,28,33.2,Yes,Medium,3745.28
+KFH00494,43,Male,Appendicitis,Inpatient,1,26.8,Yes,Low,1520.65
+KFH00495,74,Male,COVID-19,Inpatient,5,30.7,No,Medium,1786.27
+KFH00496,55,Female,Fracture,Inpatient,2,28.8,No,Low,1338.67
+KFH00497,42,Male,Malaria,Inpatient,21,33.6,Yes,High,2453.53
+KFH00498,45,Female,Pneumonia,Inpatient,13,28.1,No,Low,1387.66
+KFH00499,9,Male,Hypertension,Surgery,15,33.5,No,Medium,2792.43
+KFH00500,88,Male,Appendicitis,Emergency,12,34,Yes,Medium,2634.06
+KFH00501,3,Male,Diabetes,Outpatient,7,33.6,Yes,Low,1259.14
+KFH00502,47,Male,Fracture,Surgery,25,28.8,Yes,High,4623.13
+KFH00503,7,Male,Malaria,Inpatient,23,18.8,No,Medium,1716.17
+KFH00504,16,Female,COVID-19,Outpatient,7,32.7,Yes,Medium,1761.06
+KFH00505,54,Male,Kidney Infection,Surgery,20,30.5,Yes,Medium,3474.42
+KFH00506,14,Male,Hypertension,Inpatient,26,18.6,Yes,High,2704.54
+KFH00507,26,Female,Kidney Infection,Outpatient,12,32.9,No,Low,1273.41
+KFH00508,6,Female,Diabetes,Emergency,11,21.6,Yes,High,2544.32
+KFH00509,12,Male,Heart Disease,Emergency,5,38.8,Yes,High,3449.82
+KFH00510,13,Female,Diabetes,Emergency,10,22.3,Yes,Low,1711.79
+KFH00511,23,Male,Hypertension,Surgery,26,32.2,No,High,3863.45
+KFH00512,15,Male,Malaria,Inpatient,28,19.3,Yes,Medium,2280.47
+KFH00513,46,Female,Heart Disease,Surgery,29,33.6,No,Medium,4449.33
+KFH00514,24,Male,Fracture,Emergency,15,22.5,No,High,2853.59
+KFH00515,62,Female,Pneumonia,Inpatient,5,32.7,Yes,Low,1244.29
+KFH00516,14,Female,Heart Disease,Emergency,26,29.7,No,Low,3329.15
+KFH00517,79,Female,Appendicitis,Inpatient,28,32.4,Yes,Medium,3092.11
+KFH00518,63,Male,Fracture,Emergency,2,17.5,No,Low,1500.19
+KFH00519,87,Male,Appendicitis,Inpatient,14,31.9,Yes,Medium,2481.42
+KFH00520,45,Female,Pneumonia,Inpatient,1,31.4,Yes,High,2037.17
+KFH00521,61,Female,Pneumonia,Inpatient,25,27.8,Yes,Medium,2188.67
+KFH00522,36,Male,Kidney Infection,Outpatient,18,31.4,No,Low,1642.2
+KFH00523,11,Female,COVID-19,Emergency,3,36.6,No,Medium,1873.49
+KFH00524,16,Female,Malaria,Inpatient,13,25.9,Yes,Low,1487.97
+KFH00525,78,Female,Kidney Infection,Outpatient,21,32.1,No,Medium,1908.91
+KFH00526,7,Male,COVID-19,Surgery,18,34.4,No,High,3625.41
+KFH00527,85,Female,COVID-19,Inpatient,4,34.2,Yes,Low,1285.69
+KFH00528,44,Female,Hypertension,Surgery,23,18.6,Yes,Medium,3348.77
+KFH00529,18,Female,Typhoid,Surgery,20,20.7,Yes,Medium,3234.67
+KFH00530,28,Female,Diabetes,Surgery,4,34.2,Yes,High,3122.48
+KFH00531,87,Male,COVID-19,Emergency,22,30.1,Yes,Medium,2957.13
+KFH00532,1,Male,Kidney Infection,Emergency,27,30,Yes,High,3330.62
+KFH00533,75,Male,Pneumonia,Inpatient,13,31.8,No,High,2221.07
+KFH00534,50,Female,Heart Disease,Outpatient,9,25.5,No,Medium,2092.18
+KFH00535,58,Male,Pneumonia,Emergency,20,32.8,No,High,2835.78
+KFH00536,71,Female,Kidney Infection,Outpatient,7,21,No,High,1890.69
+KFH00537,45,Male,Pneumonia,Surgery,23,18.8,No,High,3660.75
+KFH00538,62,Female,Kidney Infection,Surgery,29,36.3,Yes,High,4395.35
+KFH00539,14,Male,Fracture,Outpatient,2,32.1,Yes,Medium,1711.26
+KFH00540,21,Female,Hypertension,Outpatient,27,17.5,No,Low,1528.27
+KFH00541,70,Male,Appendicitis,Emergency,4,30.8,Yes,High,3064.28
+KFH00542,83,Female,Diabetes,Surgery,23,31.9,No,Medium,3143.94
+KFH00543,54,Female,Kidney Infection,Inpatient,1,33.8,Yes,High,2172.58
+KFH00544,57,Male,Appendicitis,Outpatient,25,33.4,Yes,Medium,2889.99
+KFH00545,58,Male,Typhoid,Outpatient,6,33.6,Yes,Medium,1011.4
+KFH00546,6,Female,Hypertension,Surgery,5,19.9,No,Low,2033.87
+KFH00547,43,Female,Pneumonia,Inpatient,5,38.3,Yes,High,2210.75
+KFH00548,79,Female,COVID-19,Surgery,3,34.8,No,High,3219.63
+KFH00549,29,Male,Kidney Infection,Inpatient,26,28.1,No,High,2925.04
+KFH00550,69,Female,Typhoid,Surgery,8,37.2,No,Medium,2533.52
+KFH00551,47,Female,Diabetes,Emergency,18,35.8,Yes,Low,2209.39
+KFH00552,86,Female,COVID-19,Outpatient,29,31.4,Yes,Low,2248.32
+KFH00553,88,Female,Fracture,Inpatient,13,22.2,No,Low,1821.13
+KFH00554,67,Female,Kidney Infection,Emergency,16,17.1,Yes,Medium,2556.03
+KFH00555,66,Male,Typhoid,Outpatient,25,28.9,Yes,High,2585.01
+KFH00556,9,Male,Diabetes,Emergency,27,18.5,No,High,3023.07
+KFH00557,10,Male,Malaria,Emergency,23,24,Yes,Low,2151.49
+KFH00558,7,Male,Hypertension,Inpatient,19,35.7,No,Medium,1816.59
+KFH00559,50,Female,Fracture,Emergency,11,16.4,Yes,High,3019.33
+KFH00560,1,Male,Heart Disease,Inpatient,23,36.4,No,High,3501.48
+KFH00561,14,Female,Hypertension,Inpatient,10,34.4,No,Medium,1536.77
+KFH00562,51,Male,COVID-19,Outpatient,18,21.3,No,High,2625.55
+KFH00563,38,Male,Hypertension,Surgery,1,29.3,Yes,Low,2321.03
+KFH00564,6,Male,Heart Disease,Emergency,18,29.1,Yes,Medium,3376.38
+KFH00565,27,Female,Diabetes,Emergency,29,31.5,Yes,Low,2761.65
+KFH00566,24,Male,Heart Disease,Surgery,7,18.8,Yes,High,4175.03
+KFH00567,60,Male,Hypertension,Inpatient,9,18.4,No,Medium,1137.43
+KFH00568,46,Male,Diabetes,Inpatient,10,30.9,Yes,Medium,1633.53
+KFH00569,63,Female,Appendicitis,Surgery,23,30,No,Medium,3595.5
+KFH00570,55,Male,Malaria,Surgery,8,34.9,No,Medium,2522.32
+KFH00571,47,Male,Appendicitis,Emergency,15,26.7,No,Medium,2685.71
+KFH00572,71,Male,Pneumonia,Inpatient,27,22.7,Yes,High,3144.67
+KFH00573,26,Female,Typhoid,Inpatient,29,16.4,Yes,High,2881.23
+KFH00574,75,Female,Heart Disease,Outpatient,30,16.9,No,High,3508.21
+KFH00575,70,Female,Pneumonia,Surgery,13,21.4,No,Low,2676.53
+KFH00576,60,Male,Fracture,Surgery,17,16.3,Yes,High,3746.16
+KFH00577,88,Male,Kidney Infection,Outpatient,15,19.8,Yes,High,2427.27
+KFH00578,62,Female,Malaria,Outpatient,25,27.7,Yes,Medium,2101
+KFH00579,48,Male,Malaria,Outpatient,17,37.8,No,Medium,1361.57
+KFH00580,61,Female,Malaria,Inpatient,21,23.8,No,High,2466.25
+KFH00581,34,Male,Fracture,Emergency,12,30.1,Yes,High,3121.12
+KFH00582,33,Female,Diabetes,Emergency,12,35.6,No,Medium,2008.17
+KFH00583,62,Male,Kidney Infection,Outpatient,15,20,Yes,High,2475.93
+KFH00584,83,Female,Diabetes,Outpatient,6,19.8,Yes,High,2111.48
+KFH00585,30,Female,Appendicitis,Inpatient,16,32.2,No,Low,2072.82
+KFH00586,76,Male,Fracture,Inpatient,8,17,Yes,Low,1684.79
+KFH00587,81,Male,Heart Disease,Outpatient,2,20,Yes,High,2574.88
+KFH00588,52,Male,Hypertension,Inpatient,7,26.8,No,Medium,1242.02
+KFH00589,22,Male,Fracture,Outpatient,26,30,Yes,High,3139.64
+KFH00590,85,Female,Pneumonia,Surgery,30,26.9,Yes,Low,3381.77
+KFH00591,49,Female,Pneumonia,Inpatient,1,20.9,No,Low,903.09
+KFH00592,78,Male,Pneumonia,Emergency,29,30.8,Yes,High,3406.68
+KFH00593,65,Male,Typhoid,Emergency,22,19.1,Yes,High,3032.98
+KFH00594,84,Female,Kidney Infection,Emergency,12,37,No,Low,2005.04
+KFH00595,62,Female,Appendicitis,Inpatient,14,19.2,No,Low,2030.5
+KFH00596,11,Female,Heart Disease,Emergency,9,20.5,Yes,High,3451.3
+KFH00597,67,Male,Kidney Infection,Inpatient,13,31.7,No,Medium,1846.12
+KFH00598,47,Male,Pneumonia,Emergency,21,30,No,High,2822.55
+KFH00599,55,Female,Heart Disease,Surgery,22,25.5,Yes,Medium,4304.18
+KFH00600,71,Female,Pneumonia,Surgery,18,29.3,No,Medium,3161.78
+KFH00601,74,Female,Fracture,Outpatient,28,36.7,Yes,High,3244.34
+KFH00602,30,Female,Pneumonia,Inpatient,7,28.2,No,High,1860.34
+KFH00603,79,Male,Pneumonia,Emergency,21,16.1,Yes,Low,2374.85
+KFH00604,61,Female,Typhoid,Inpatient,9,21.3,Yes,High,2229.18
+KFH00605,5,Female,Fracture,Surgery,23,39.1,Yes,Low,3615.11
+KFH00606,82,Female,COVID-19,Inpatient,7,36.4,No,Low,1637.22
+KFH00607,5,Male,Heart Disease,Outpatient,22,16.9,Yes,High,3321.65
+KFH00608,1,Male,Typhoid,Surgery,25,25.6,No,Medium,3078.64
+KFH00609,76,Male,Kidney Infection,Inpatient,24,32.9,Yes,High,2811.05
+KFH00610,37,Female,Appendicitis,Surgery,8,30.6,Yes,Medium,3602.53
+KFH00611,52,Male,Hypertension,Outpatient,14,28.1,Yes,High,2209.02
+KFH00612,38,Female,Typhoid,Surgery,29,28.9,No,High,3897.83
+KFH00613,57,Female,Heart Disease,Emergency,25,21.8,No,Medium,3492.6
+KFH00614,88,Female,Heart Disease,Inpatient,16,18.8,Yes,Medium,2748.94
+KFH00615,82,Male,Diabetes,Surgery,14,38.9,Yes,High,3947.99
+KFH00616,34,Male,Hypertension,Inpatient,13,32.2,No,Low,1326.51
+KFH00617,71,Male,COVID-19,Surgery,12,21.2,No,Low,2749.13
+KFH00618,88,Male,COVID-19,Outpatient,8,33.7,No,Low,1325.59
+KFH00619,30,Male,Diabetes,Surgery,5,34.7,Yes,Low,2531.22
+KFH00620,87,Female,Heart Disease,Inpatient,25,36.6,Yes,Medium,3359.87
+KFH00621,48,Female,COVID-19,Surgery,16,20.4,No,Medium,3097.14
+KFH00622,29,Male,Malaria,Emergency,16,38.6,Yes,High,2859.58
+KFH00623,45,Female,Pneumonia,Emergency,4,32.8,No,Medium,1999.84
+KFH00624,89,Male,Malaria,Outpatient,13,29.9,No,Medium,1500.95
+KFH00625,79,Female,Pneumonia,Surgery,8,22.5,No,Medium,2873.68
+KFH00626,24,Female,Fracture,Outpatient,14,32.8,No,Medium,1812.65
+KFH00627,52,Female,COVID-19,Outpatient,19,19.1,Yes,Low,1686.75
+KFH00628,35,Male,Kidney Infection,Emergency,28,25.1,Yes,High,3530.41
+KFH00629,20,Female,Malaria,Outpatient,14,28,No,Medium,1376.69
+KFH00630,39,Female,Kidney Infection,Inpatient,13,18.4,Yes,Low,1843.3
+KFH00631,28,Female,COVID-19,Inpatient,15,33.9,No,Medium,1816.4
+KFH00632,47,Female,Appendicitis,Inpatient,14,18.9,Yes,High,3088.05
+KFH00633,74,Male,Hypertension,Surgery,11,32.2,No,High,3212.04
+KFH00634,58,Male,Fracture,Surgery,15,31.2,Yes,Low,3154.77
+KFH00635,82,Female,Fracture,Emergency,28,37.8,Yes,Low,2837.55
+KFH00636,44,Male,Appendicitis,Surgery,21,23,No,High,4006.42
+KFH00637,83,Female,Hypertension,Emergency,25,36.7,No,High,3112.28
+KFH00638,76,Female,Fracture,Outpatient,6,36.5,Yes,High,2281.3
+KFH00639,31,Female,Typhoid,Outpatient,6,25.5,Yes,Low,812.7
+KFH00640,61,Male,Malaria,Emergency,17,34.4,Yes,Low,1866.59
+KFH00641,34,Male,Typhoid,Emergency,10,21.5,No,Medium,1767.21
+KFH00642,81,Male,Pneumonia,Outpatient,1,16.8,No,Medium,1174.28
+KFH00643,61,Female,Kidney Infection,Surgery,18,26.7,Yes,High,3922.35
+KFH00644,77,Female,Heart Disease,Emergency,17,31.4,No,Medium,3006.62
+KFH00645,62,Male,Typhoid,Emergency,10,24.8,No,Low,1494.51
+KFH00646,39,Male,Malaria,Outpatient,12,22.9,Yes,High,1931.77
+KFH00647,63,Female,Hypertension,Inpatient,25,26.3,No,High,2237.87
+KFH00648,30,Male,Kidney Infection,Surgery,7,25.9,No,Medium,2802.98
+KFH00649,32,Male,Fracture,Emergency,8,22.3,No,High,2653.79
+KFH00650,31,Female,Hypertension,Surgery,14,20.5,Yes,Low,2776.04
+KFH00651,18,Female,Typhoid,Emergency,20,26.9,No,Low,2156.37
+KFH00652,42,Male,Pneumonia,Inpatient,18,16.5,Yes,Medium,2187.69
+KFH00653,35,Male,COVID-19,Inpatient,8,18.2,Yes,Medium,1828.73
+KFH00654,28,Female,Fracture,Surgery,26,35.2,No,Medium,3633.22
+KFH00655,90,Male,Appendicitis,Inpatient,27,34,Yes,Low,3008.8
+KFH00656,35,Female,Typhoid,Emergency,6,20.6,No,Medium,1650.11
+KFH00657,2,Male,Diabetes,Emergency,25,39.4,Yes,High,3298.67
+KFH00658,5,Male,COVID-19,Inpatient,17,32,Yes,Medium,2287.1
+KFH00659,50,Female,Appendicitis,Outpatient,21,33.5,Yes,Medium,2581.27
+KFH00660,62,Female,Diabetes,Surgery,29,17.3,Yes,Low,3329.18
+KFH00661,31,Female,Appendicitis,Inpatient,6,35.1,Yes,Medium,2096.66
+KFH00662,32,Male,Malaria,Emergency,23,30.3,No,Low,1975.88
+KFH00663,32,Male,COVID-19,Inpatient,22,30.8,Yes,Low,2180.07
+KFH00664,46,Male,Kidney Infection,Inpatient,5,27.7,No,High,1973.29
+KFH00665,83,Female,COVID-19,Outpatient,1,32.5,No,High,1666.96
+KFH00666,18,Female,Malaria,Emergency,23,26.5,No,High,2835.27
+KFH00667,90,Female,Diabetes,Outpatient,18,24.3,No,Medium,1610.9
+KFH00668,77,Male,Typhoid,Outpatient,15,23.1,No,High,2095.98
+KFH00669,47,Female,Malaria,Emergency,24,20.5,Yes,High,2714.38
+KFH00670,47,Male,Appendicitis,Inpatient,22,39.2,No,Low,2456.98
+KFH00671,68,Female,Kidney Infection,Outpatient,20,22.8,No,High,2563.53
+KFH00672,42,Male,Typhoid,Inpatient,2,36,Yes,Low,811.1900000000001
+KFH00673,5,Male,Typhoid,Emergency,7,18.4,No,High,2130.88
+KFH00674,63,Female,Malaria,Surgery,8,30.5,Yes,Low,2397.93
+KFH00675,27,Female,Typhoid,Emergency,26,31.3,No,High,2827.6
+KFH00676,54,Female,Malaria,Surgery,17,17,Yes,Medium,2941.66
+KFH00677,10,Male,Kidney Infection,Inpatient,4,33.4,No,Low,1093.73
+KFH00678,25,Male,Heart Disease,Outpatient,18,34,No,High,3350.27
+KFH00679,14,Female,COVID-19,Emergency,29,18.5,Yes,High,3714.78
+KFH00680,52,Female,Pneumonia,Emergency,30,24.5,No,High,3425.09
+KFH00681,42,Female,Fracture,Emergency,27,33.4,Yes,High,3783.6
+KFH00682,70,Male,Fracture,Surgery,12,39.1,No,Medium,3090.01
+KFH00683,1,Male,Hypertension,Inpatient,17,19.2,No,Low,1343.06
+KFH00684,39,Male,Diabetes,Surgery,1,34.5,No,High,2971.22
+KFH00685,66,Male,Typhoid,Inpatient,15,24.5,Yes,Medium,1675.84
+KFH00686,47,Male,Diabetes,Surgery,26,23.2,No,High,3941.56
+KFH00687,28,Male,Appendicitis,Emergency,6,27.7,Yes,High,2999.66
+KFH00688,83,Female,Malaria,Emergency,3,34.7,No,Medium,1518.52
+KFH00689,56,Female,Typhoid,Outpatient,24,31.7,Yes,High,2603.82
+KFH00690,81,Female,Malaria,Surgery,17,17,Yes,Medium,3088.31
+KFH00691,65,Male,Pneumonia,Inpatient,22,33.6,No,Medium,2054.68
+KFH00692,77,Male,Diabetes,Emergency,10,34.9,Yes,Low,2013.62
+KFH00693,44,Male,COVID-19,Inpatient,18,25.6,Yes,Medium,2168.27
+KFH00694,65,Female,Pneumonia,Outpatient,16,29.4,No,Medium,1710.91
+KFH00695,84,Male,Kidney Infection,Outpatient,8,17.7,No,Medium,1479.67
+KFH00696,88,Male,Typhoid,Emergency,14,24.8,Yes,Medium,2146.85
+KFH00697,45,Male,Hypertension,Outpatient,12,30.8,No,High,1903.14
+KFH00698,19,Female,Malaria,Outpatient,7,32.4,Yes,High,1661.87
+KFH00699,11,Male,Malaria,Outpatient,20,38.2,No,Low,1471.88
+KFH00700,44,Male,Hypertension,Emergency,16,16.5,Yes,High,2730.31
+KFH00701,69,Male,Diabetes,Surgery,18,27.6,Yes,High,3695.27
+KFH00702,90,Male,Fracture,Inpatient,9,20.1,No,Low,1636.38
+KFH00703,90,Female,Malaria,Emergency,21,38.7,Yes,Medium,2418.98
+KFH00704,85,Female,Appendicitis,Inpatient,1,23,No,Low,1235.98
+KFH00705,49,Male,Appendicitis,Emergency,28,30.3,Yes,Low,2934.7
+KFH00706,26,Female,Kidney Infection,Inpatient,2,21.9,No,Medium,1462.22
+KFH00707,63,Female,Pneumonia,Inpatient,12,32.4,No,High,2038.35
+KFH00708,39,Male,Kidney Infection,Surgery,26,17.5,No,Medium,3738.08
+KFH00709,4,Female,Diabetes,Outpatient,11,37.5,Yes,Low,1077.67
+KFH00710,49,Male,Fracture,Outpatient,19,19.7,No,High,2712.07
+KFH00711,43,Female,Kidney Infection,Outpatient,7,31.7,Yes,Low,1363.82
+KFH00712,40,Male,Fracture,Outpatient,21,38.4,Yes,Medium,2370.39
+KFH00713,9,Male,Pneumonia,Surgery,27,37.1,Yes,Medium,3650.11
+KFH00714,53,Female,Hypertension,Emergency,24,38.4,No,Low,2229.9
+KFH00715,25,Male,Pneumonia,Outpatient,1,34.3,No,High,1556.98
+KFH00716,73,Male,Heart Disease,Outpatient,8,32.5,No,Low,2064.9
+KFH00717,89,Female,Pneumonia,Emergency,23,31.6,Yes,Medium,2741.71
+KFH00718,63,Female,Pneumonia,Outpatient,7,21.4,No,Low,955.04
+KFH00719,35,Female,Diabetes,Outpatient,25,20.9,Yes,Medium,2060.87
+KFH00720,79,Female,Appendicitis,Emergency,29,21.9,No,Low,2912.67
+KFH00721,78,Female,Appendicitis,Emergency,20,38.5,Yes,High,3679.44
+KFH00722,14,Female,COVID-19,Inpatient,29,39.9,No,High,2904.28
+KFH00723,6,Female,Kidney Infection,Inpatient,7,23,No,Medium,1433.22
+KFH00724,37,Female,Pneumonia,Emergency,10,30.7,Yes,High,2792.69
+KFH00725,67,Male,COVID-19,Emergency,3,33.3,Yes,Low,1857
+KFH00726,75,Male,Fracture,Emergency,11,26.8,Yes,Medium,2501.92
+KFH00727,76,Male,COVID-19,Inpatient,9,23.8,Yes,High,2431.21
+KFH00728,16,Male,Typhoid,Emergency,21,24.7,No,High,2805.21
+KFH00729,66,Male,Fracture,Emergency,2,34.4,No,High,2437.23
+KFH00730,85,Male,Pneumonia,Outpatient,6,34.5,Yes,Medium,1369.1
+KFH00731,40,Female,COVID-19,Surgery,21,20.3,Yes,Low,3315
+KFH00732,1,Female,Malaria,Emergency,16,36.5,Yes,High,2675.1
+KFH00733,64,Male,Diabetes,Emergency,15,25.8,Yes,High,2877.99
+KFH00734,77,Male,Diabetes,Surgery,20,31.1,Yes,Low,2851.19
+KFH00735,24,Male,Malaria,Surgery,2,19.5,Yes,High,3071
+KFH00736,74,Female,Appendicitis,Inpatient,2,18.6,Yes,Low,1679.71
+KFH00737,87,Female,Heart Disease,Outpatient,15,34,No,Low,2250.72
+KFH00738,12,Female,Appendicitis,Surgery,29,25.1,Yes,Medium,4353.42
+KFH00739,71,Male,Hypertension,Emergency,5,18.9,No,Medium,1824.36
+KFH00740,68,Female,Kidney Infection,Outpatient,23,21,Yes,Low,2046.72
+KFH00741,74,Male,COVID-19,Surgery,14,30.6,No,Medium,2942.1
+KFH00742,68,Female,Pneumonia,Emergency,17,33.5,No,Medium,2143.95
+KFH00743,24,Male,Hypertension,Outpatient,1,18.8,No,High,1289.02
+KFH00744,16,Male,Heart Disease,Emergency,14,17.1,No,High,3498.63
+KFH00745,82,Male,Malaria,Outpatient,23,22.8,Yes,Medium,1966.12
+KFH00746,39,Female,Malaria,Inpatient,22,24,No,High,2282.91
+KFH00747,73,Male,Pneumonia,Outpatient,11,36,No,Medium,1492.41
+KFH00748,5,Male,COVID-19,Outpatient,21,27.1,No,Medium,1934.85
+KFH00749,53,Male,Kidney Infection,Surgery,19,33.4,No,High,3753.62
+KFH00750,69,Male,Diabetes,Surgery,26,38,No,Low,2961.2
+KFH00751,20,Female,Malaria,Surgery,13,31,Yes,High,3334.21
+KFH00752,78,Female,Pneumonia,Inpatient,28,34.8,No,High,2681.8
+KFH00753,41,Male,Hypertension,Emergency,3,27.9,Yes,Medium,1672.4
+KFH00754,58,Female,Diabetes,Surgery,6,18.7,Yes,Low,2559.94
+KFH00755,12,Female,Kidney Infection,Inpatient,26,27.6,Yes,Low,2164.07
+KFH00756,44,Female,Kidney Infection,Surgery,25,23.9,Yes,High,4535.39
+KFH00757,87,Male,Diabetes,Inpatient,15,25.3,Yes,Low,1685.7
+KFH00758,40,Male,Heart Disease,Inpatient,11,27.2,Yes,Low,2448.18
+KFH00759,67,Female,Malaria,Surgery,21,37.4,No,Low,2694
+KFH00760,25,Female,Hypertension,Surgery,25,26.6,Yes,Medium,3547.04
+KFH00761,20,Male,Hypertension,Inpatient,1,39,Yes,Low,995.92
+KFH00762,70,Female,Kidney Infection,Surgery,9,19.4,No,High,3371.64
+KFH00763,32,Male,Typhoid,Surgery,20,37.4,No,Low,3094.21
+KFH00764,17,Male,COVID-19,Inpatient,4,25.2,Yes,Medium,1724.47
+KFH00765,51,Male,Heart Disease,Emergency,20,24.5,No,Low,3110.41
+KFH00766,86,Male,COVID-19,Outpatient,3,35.5,No,Low,963.12
+KFH00767,59,Female,COVID-19,Emergency,8,38.7,Yes,High,2859.3
+KFH00768,34,Female,Fracture,Outpatient,23,38,No,Medium,2472.5
+KFH00769,59,Female,Malaria,Inpatient,16,18.7,No,Medium,1528.26
+KFH00770,22,Female,Appendicitis,Outpatient,17,18.5,Yes,Medium,2539.99
+KFH00771,72,Male,Hypertension,Emergency,13,30.2,Yes,High,2785.93
+KFH00772,32,Male,COVID-19,Emergency,3,24.2,No,Medium,1823.5
+KFH00773,73,Female,Kidney Infection,Outpatient,6,31.9,Yes,High,2175.39
+KFH00774,74,Female,Typhoid,Emergency,11,29.3,No,Low,1703.21
+KFH00775,40,Female,Typhoid,Inpatient,22,35.5,No,Medium,2032.12
+KFH00776,64,Male,Typhoid,Outpatient,27,19.3,Yes,Low,1588.07
+KFH00777,85,Male,COVID-19,Surgery,13,30.8,No,Low,2736.74
+KFH00778,27,Female,Hypertension,Surgery,30,38.6,No,High,3993.3
+KFH00779,45,Male,Heart Disease,Inpatient,20,39.7,No,Low,2639.57
+KFH00780,38,Male,Appendicitis,Inpatient,1,32.9,No,Low,1528.98
+KFH00781,37,Male,Diabetes,Emergency,23,30.2,No,High,2992.32
+KFH00782,49,Female,Fracture,Emergency,18,21.1,Yes,Medium,2615.26
+KFH00783,18,Male,Kidney Infection,Emergency,27,38.2,No,Low,2616.62
+KFH00784,37,Male,Pneumonia,Inpatient,3,31.6,Yes,High,2101.27
+KFH00785,63,Female,Pneumonia,Inpatient,5,31.4,No,Medium,1474.17
+KFH00786,90,Female,Heart Disease,Outpatient,15,28.2,No,Medium,2620.69
+KFH00787,46,Male,Pneumonia,Emergency,20,16.2,No,High,2931.07
+KFH00788,31,Female,Fracture,Surgery,2,39.5,No,High,3382.6
+KFH00789,48,Male,Heart Disease,Emergency,23,17.9,No,Medium,3351.08
+KFH00790,67,Male,Kidney Infection,Inpatient,8,27.3,Yes,High,2157.18
+KFH00791,82,Female,Heart Disease,Inpatient,29,24.2,Yes,Medium,3482.55
+KFH00792,59,Female,Heart Disease,Surgery,14,24.5,No,Medium,3857.42
+KFH00793,22,Male,Heart Disease,Surgery,24,34.8,No,Low,4016.59
+KFH00794,81,Female,Heart Disease,Outpatient,19,17.2,No,High,2942.79
+KFH00795,80,Male,Hypertension,Emergency,3,19,Yes,Medium,1615.27
+KFH00796,33,Male,Heart Disease,Surgery,9,36.6,Yes,High,4519.38
+KFH00797,15,Male,Heart Disease,Outpatient,22,26.7,Yes,Medium,2958.75
+KFH00798,90,Male,COVID-19,Outpatient,26,28.7,Yes,Medium,2515.28
+KFH00799,11,Male,Heart Disease,Outpatient,27,27.9,No,Medium,2972.9
+KFH00800,31,Female,Pneumonia,Outpatient,19,33.6,No,Low,1481.57
+KFH00801,83,Female,Typhoid,Inpatient,6,27.1,No,Medium,1388.09
+KFH00802,61,Male,Fracture,Emergency,16,22.3,No,Low,2139.57
+KFH00803,37,Female,Fracture,Surgery,17,32.4,Yes,Low,3303.53
+KFH00804,69,Female,Fracture,Surgery,11,22.5,Yes,Medium,3247.03
+KFH00805,84,Female,COVID-19,Outpatient,24,32.1,Yes,High,2818.36
+KFH00806,44,Male,Appendicitis,Inpatient,22,16.2,Yes,Low,2373.9
+KFH00807,53,Male,Kidney Infection,Inpatient,22,26.7,Yes,High,2940.16
+KFH00808,37,Female,Diabetes,Inpatient,1,30.9,Yes,High,1837.05
+KFH00809,85,Male,Heart Disease,Inpatient,23,39,Yes,High,3915.69
+KFH00810,17,Female,Heart Disease,Outpatient,29,18.7,Yes,Medium,3096.15
+KFH00811,38,Female,Typhoid,Emergency,30,39.9,No,High,3177.08
+KFH00812,86,Female,Hypertension,Outpatient,25,17.8,Yes,Medium,1966.23
+KFH00813,50,Female,Malaria,Surgery,27,22.4,No,Low,3135.64
+KFH00814,63,Male,Heart Disease,Emergency,6,31.5,Yes,Low,2671.09
+KFH00815,70,Female,Diabetes,Inpatient,30,26.6,No,Low,2156.82
+KFH00816,5,Male,Typhoid,Surgery,25,26.7,No,Low,2755.23
+KFH00817,84,Male,Malaria,Emergency,9,19.6,No,Medium,1760.05
+KFH00818,74,Male,Kidney Infection,Emergency,16,26.5,Yes,High,3179.26
+KFH00819,29,Male,Fracture,Emergency,4,29.6,No,Medium,2067.87
+KFH00820,88,Female,Fracture,Inpatient,21,39.9,Yes,Medium,2717.36
+KFH00821,69,Female,Typhoid,Emergency,25,34.4,Yes,Low,2309.93
+KFH00822,71,Male,Fracture,Outpatient,10,32.7,Yes,High,2582.62
+KFH00823,89,Female,COVID-19,Inpatient,29,31.2,Yes,Low,2741.87
+KFH00824,5,Male,Malaria,Outpatient,16,25.3,No,Medium,1392.96
+KFH00825,69,Female,Malaria,Inpatient,11,17.3,Yes,Medium,1543.04
+KFH00826,16,Male,Kidney Infection,Emergency,22,36.9,Yes,High,3538.91
+KFH00827,75,Male,Typhoid,Inpatient,24,19.4,Yes,Medium,2346.55
+KFH00828,80,Male,Diabetes,Outpatient,1,20.1,Yes,Medium,1077.76
+KFH00829,13,Female,Heart Disease,Outpatient,27,30.2,Yes,Low,2830.58
+KFH00830,64,Male,Typhoid,Outpatient,14,24.1,No,Medium,1346.69
+KFH00831,16,Male,Appendicitis,Outpatient,25,17.1,Yes,Medium,2474.17
+KFH00832,9,Male,Hypertension,Outpatient,25,26,No,High,2249.76
+KFH00833,22,Female,Diabetes,Inpatient,5,18.4,No,Low,871.5
+KFH00834,3,Female,Typhoid,Inpatient,1,20.3,Yes,High,1649.36
+KFH00835,84,Female,Fracture,Emergency,23,19,Yes,High,3460.84
+KFH00836,35,Female,Fracture,Outpatient,6,30.7,Yes,High,2271.61
+KFH00837,24,Female,Heart Disease,Inpatient,21,35.8,No,Medium,3155.06
+KFH00838,54,Male,Kidney Infection,Outpatient,7,18.8,Yes,High,1954.2
+KFH00839,47,Male,COVID-19,Outpatient,9,17.3,Yes,Low,1514.62
+KFH00840,88,Female,COVID-19,Outpatient,6,32.1,Yes,Low,1324.82
+KFH00841,83,Female,Hypertension,Outpatient,14,22,No,Low,1094.06
+KFH00842,14,Male,Kidney Infection,Outpatient,6,34.9,No,High,1995.48
+KFH00843,15,Male,Diabetes,Emergency,19,29.9,No,Low,1874.77
+KFH00844,87,Female,Diabetes,Inpatient,11,21.5,Yes,High,2293.39
+KFH00845,53,Male,Fracture,Outpatient,3,27.3,No,Low,1126.47
+KFH00846,56,Male,Diabetes,Emergency,6,25.3,Yes,Medium,2025.59
+KFH00847,25,Female,Hypertension,Outpatient,11,19.1,Yes,Medium,1500.2
+KFH00848,18,Male,COVID-19,Emergency,14,20.1,No,Low,2305.14
+KFH00849,38,Male,Heart Disease,Outpatient,19,39.3,Yes,Low,2529.97
+KFH00850,53,Female,Diabetes,Emergency,27,27.1,Yes,High,3251.78
+KFH00851,55,Male,Diabetes,Surgery,14,29.9,Yes,High,3534.72
+KFH00852,1,Female,Malaria,Inpatient,16,33.6,Yes,Medium,1811.34
+KFH00853,68,Female,COVID-19,Inpatient,15,27.9,Yes,High,2613.01
+KFH00854,2,Female,Diabetes,Outpatient,12,23.1,Yes,Low,1438.18
+KFH00855,62,Female,Pneumonia,Emergency,28,29.7,Yes,Medium,3088.96
+KFH00856,60,Male,Fracture,Outpatient,26,36.9,No,High,2806.01
+KFH00857,82,Male,Typhoid,Emergency,29,32.6,Yes,Medium,2723.12
+KFH00858,55,Female,Heart Disease,Outpatient,26,32.4,No,High,3508.57
+KFH00859,8,Female,Malaria,Inpatient,13,24.8,Yes,Medium,1647.73
+KFH00860,47,Male,Kidney Infection,Inpatient,18,33,Yes,Low,2060.95
+KFH00861,43,Male,Kidney Infection,Inpatient,21,27.5,Yes,High,2901.85
+KFH00862,29,Female,Appendicitis,Surgery,17,32.3,No,Low,3109.61
+KFH00863,9,Female,Appendicitis,Emergency,16,28,Yes,Medium,3115.7
+KFH00864,69,Female,COVID-19,Surgery,26,32.2,Yes,Low,3766.51
+KFH00865,59,Male,Typhoid,Emergency,29,20.3,Yes,Low,2387.97
+KFH00866,22,Female,Typhoid,Outpatient,16,19.6,Yes,High,2091.48
+KFH00867,81,Male,Hypertension,Emergency,22,29,Yes,Medium,2589.3
+KFH00868,45,Female,COVID-19,Inpatient,10,20.5,Yes,Low,1692.63
+KFH00869,67,Female,Fracture,Surgery,21,31.5,No,Medium,3626.53
+KFH00870,76,Female,COVID-19,Surgery,19,19.2,No,Low,3247.22
+KFH00871,34,Male,COVID-19,Surgery,10,34.5,Yes,Low,2901.27
+KFH00872,46,Female,COVID-19,Outpatient,20,38.2,No,Low,1645.2
+KFH00873,23,Male,Pneumonia,Outpatient,4,17,No,High,1429.48
+KFH00874,17,Female,Hypertension,Surgery,6,20.9,Yes,High,3086.79
+KFH00875,41,Female,Pneumonia,Surgery,15,29,Yes,High,3691.02
+KFH00876,39,Male,Malaria,Emergency,30,28,Yes,Medium,3025.35
+KFH00877,41,Male,Malaria,Surgery,21,32.9,No,Medium,3012.39
+KFH00878,74,Male,Heart Disease,Emergency,11,32.5,No,Low,2679.35
+KFH00879,18,Male,Hypertension,Inpatient,13,30.8,Yes,Medium,1802.03
+KFH00880,46,Male,Appendicitis,Inpatient,20,31.4,Yes,Medium,2849.61
+KFH00881,26,Male,Typhoid,Emergency,22,32.1,Yes,High,3343.73
+KFH00882,51,Male,COVID-19,Surgery,20,30.5,Yes,High,4038.8
+KFH00883,47,Female,Pneumonia,Emergency,12,25.3,Yes,Medium,2197.77
+KFH00884,45,Female,Hypertension,Emergency,28,29.5,Yes,High,3422.8
+KFH00885,57,Female,COVID-19,Surgery,6,35.3,No,High,3448.33
+KFH00886,54,Male,Heart Disease,Inpatient,5,21,No,High,2976.6
+KFH00887,43,Male,Heart Disease,Emergency,3,16.2,No,Medium,2621.07
+KFH00888,23,Female,Heart Disease,Outpatient,7,20.5,No,Medium,2089.38
+KFH00889,71,Female,Malaria,Surgery,27,30,No,High,3870.88
+KFH00890,60,Male,Malaria,Inpatient,5,22.3,No,Low,1014.54
+KFH00891,84,Female,Fracture,Outpatient,16,37.8,Yes,Low,1977.46
+KFH00892,16,Female,COVID-19,Inpatient,20,33.9,No,High,2780.37
+KFH00893,56,Female,COVID-19,Inpatient,12,28.3,Yes,Medium,2199.5
+KFH00894,21,Male,Pneumonia,Surgery,15,37.1,Yes,Medium,3375.82
+KFH00895,21,Male,Hypertension,Surgery,14,31.3,No,Low,2712.36
+KFH00896,38,Female,Kidney Infection,Inpatient,17,20.7,Yes,Low,1961.35
+KFH00897,77,Male,Kidney Infection,Surgery,28,23.6,No,Medium,3617.95
+KFH00898,88,Female,Typhoid,Surgery,27,19.4,Yes,High,3994.61
+KFH00899,37,Female,COVID-19,Emergency,11,38.1,Yes,Low,2325.28
+KFH00900,28,Male,Kidney Infection,Outpatient,27,20.5,Yes,Medium,2284.47
+KFH00901,59,Male,Typhoid,Outpatient,30,16.4,No,Medium,2026.24
+KFH00902,89,Female,Pneumonia,Emergency,29,39.7,No,Low,2461.3
+KFH00903,39,Male,Typhoid,Outpatient,5,36.6,Yes,High,1786.45
+KFH00904,30,Female,Pneumonia,Outpatient,5,39.5,No,High,1900.91
+KFH00905,15,Male,Malaria,Emergency,25,26.3,Yes,Low,2324.43
+KFH00906,5,Male,COVID-19,Inpatient,30,22.1,Yes,Medium,2766.07
+KFH00907,86,Male,Typhoid,Inpatient,30,30.4,Yes,Low,1988.82
+KFH00908,86,Female,Malaria,Inpatient,5,36.3,No,High,1841.05
+KFH00909,45,Female,Pneumonia,Outpatient,17,29.7,Yes,High,2455.96
+KFH00910,2,Male,Diabetes,Surgery,6,37.6,Yes,High,3587.59
+KFH00911,13,Male,Kidney Infection,Emergency,12,32.8,Yes,Medium,2407.07
+KFH00912,87,Male,Pneumonia,Surgery,13,26.2,Yes,Medium,3127.3
+KFH00913,15,Female,Typhoid,Emergency,4,28.5,No,Medium,1632.43
+KFH00914,37,Male,Typhoid,Surgery,16,18.8,No,Medium,3023.29
+KFH00915,77,Female,COVID-19,Outpatient,18,25.8,No,Low,1587.56
+KFH00916,9,Female,Appendicitis,Outpatient,1,40,No,High,2123.48
+KFH00917,14,Female,COVID-19,Inpatient,4,19.4,No,High,2079.95
+KFH00918,76,Male,Pneumonia,Inpatient,12,39.4,No,Low,1449.39
+KFH00919,77,Female,Typhoid,Outpatient,27,26.2,No,Medium,1857.43
+KFH00920,75,Female,Fracture,Surgery,16,32,No,Medium,3373.29
+KFH00921,66,Female,Pneumonia,Emergency,4,18.9,No,Medium,1833.34
+KFH00922,30,Male,Malaria,Inpatient,24,17.3,Yes,Medium,1993.32
+KFH00923,87,Male,Pneumonia,Emergency,20,32.3,Yes,Medium,2627.46
+KFH00924,80,Male,Typhoid,Emergency,26,27.2,No,High,2891.99
+KFH00925,64,Female,Kidney Infection,Surgery,18,24.2,Yes,Low,3284.41
+KFH00926,56,Male,Fracture,Emergency,11,36.5,No,Medium,2189.72
+KFH00927,5,Male,Pneumonia,Surgery,29,32.9,No,Medium,3507.43
+KFH00928,18,Female,Fracture,Emergency,25,18.6,No,High,3388.27
+KFH00929,71,Female,COVID-19,Outpatient,17,17.3,No,Medium,2004.36
+KFH00930,76,Female,Heart Disease,Surgery,25,39.5,No,Low,4039.61
+KFH00931,4,Male,Pneumonia,Surgery,12,35.4,Yes,High,3540.38
+KFH00932,44,Female,Typhoid,Emergency,12,39.8,No,Medium,2204.74
+KFH00933,8,Male,Diabetes,Outpatient,21,23.5,Yes,High,2283.74
+KFH00934,9,Female,Typhoid,Surgery,6,16.5,No,Low,1858.64
+KFH00935,59,Female,Heart Disease,Emergency,9,16.5,No,High,3345.3
+KFH00936,3,Female,Fracture,Emergency,11,29.7,No,Low,1978.25
+KFH00937,89,Male,Appendicitis,Emergency,17,35.5,No,Low,2384.95
+KFH00938,79,Female,Appendicitis,Emergency,7,27.9,Yes,High,3154.5
+KFH00939,28,Female,Hypertension,Inpatient,10,39.9,No,Low,1258.76
+KFH00940,80,Male,Heart Disease,Inpatient,19,24.1,Yes,High,3462.81
+KFH00941,68,Female,Fracture,Outpatient,12,35.1,No,High,2151.86
+KFH00942,39,Female,Kidney Infection,Surgery,7,25.9,No,High,3414.19
+KFH00943,66,Female,Kidney Infection,Outpatient,29,16.4,Yes,High,3020.02
+KFH00944,64,Male,COVID-19,Surgery,30,31.3,No,High,4294.6
+KFH00945,81,Male,Kidney Infection,Outpatient,12,27.1,Yes,Low,1737.1
+KFH00946,88,Female,Fracture,Emergency,11,36.6,Yes,High,2944.59
+KFH00947,27,Female,Hypertension,Surgery,21,19.9,Yes,Medium,3086.44
+KFH00948,31,Male,Pneumonia,Outpatient,1,21.9,No,Medium,916.47
+KFH00949,63,Female,Fracture,Inpatient,7,19.8,Yes,Low,1623.53
+KFH00950,34,Female,Kidney Infection,Outpatient,21,36.5,No,Low,1751.7
+KFH00951,8,Male,Appendicitis,Surgery,28,17.5,No,Medium,3928.55
+KFH00952,86,Male,Fracture,Outpatient,8,18.7,Yes,High,2305.75
+KFH00953,86,Female,COVID-19,Inpatient,8,30.4,No,Medium,1571.82
+KFH00954,75,Female,Diabetes,Emergency,7,19.5,Yes,Low,1850.75
+KFH00955,36,Female,Fracture,Surgery,28,30.1,No,High,4310.64
+KFH00956,48,Male,Appendicitis,Emergency,16,32.4,No,Low,2586.08
+KFH00957,47,Female,Appendicitis,Surgery,1,31.5,Yes,High,3688.63
+KFH00958,85,Male,Diabetes,Surgery,18,25.2,No,High,3600.81
+KFH00959,16,Male,COVID-19,Emergency,1,37.8,No,Medium,1947.37
+KFH00960,39,Male,Diabetes,Surgery,7,36.6,Yes,Medium,2916.73
+KFH00961,81,Female,Fracture,Inpatient,9,36.8,No,Medium,1971.13
+KFH00962,53,Female,Fracture,Inpatient,27,19.8,No,High,3188.5
+KFH00963,9,Female,Fracture,Surgery,15,32.7,Yes,High,4037.08
+KFH00964,83,Male,COVID-19,Outpatient,1,25.6,No,Medium,1303.08
+KFH00965,74,Male,Typhoid,Outpatient,8,28.4,Yes,High,1851.23
+KFH00966,88,Female,Appendicitis,Emergency,16,37,Yes,Medium,3147.81
+KFH00967,23,Female,Hypertension,Outpatient,3,25.9,Yes,Medium,1098.33
+KFH00968,49,Male,Malaria,Inpatient,30,29.4,Yes,Low,2333.11
+KFH00969,60,Male,Hypertension,Outpatient,2,25.6,No,High,1433.18
+KFH00970,34,Male,Typhoid,Surgery,6,38.7,Yes,Low,2261.81
+KFH00971,68,Female,COVID-19,Emergency,4,21.4,Yes,Low,1832.37
+KFH00972,35,Female,COVID-19,Emergency,5,26.4,Yes,High,2600.27
+KFH00973,28,Female,Diabetes,Emergency,6,25.8,Yes,Low,1769.88
+KFH00974,38,Female,Diabetes,Emergency,30,22,No,Low,2331.69
+KFH00975,2,Female,Pneumonia,Surgery,23,25.5,Yes,High,3943.96
+KFH00976,50,Female,Heart Disease,Surgery,3,18.3,Yes,Low,3034.76
+KFH00977,43,Male,COVID-19,Surgery,20,38.5,Yes,Low,3288.22
+KFH00978,33,Female,Hypertension,Emergency,22,24.9,Yes,High,2743.63
+KFH00979,23,Female,Pneumonia,Emergency,30,24.1,No,Low,2280.43
+KFH00980,12,Female,Kidney Infection,Emergency,5,22.2,No,Low,1702.25
+KFH00981,17,Female,Hypertension,Surgery,30,26.3,No,High,4055.8
+KFH00982,34,Female,Fracture,Outpatient,11,33.7,No,Low,1509.55
+KFH00983,72,Female,Malaria,Outpatient,5,17.3,Yes,Low,740.46
+KFH00984,61,Female,Pneumonia,Emergency,14,18.8,No,Low,1798.27
+KFH00985,57,Female,Kidney Infection,Emergency,15,27.8,Yes,Low,2238.57
+KFH00986,45,Male,Diabetes,Surgery,6,36,No,High,2981
+KFH00987,85,Male,Heart Disease,Inpatient,17,34.4,Yes,Medium,3182.41
+KFH00988,10,Male,COVID-19,Inpatient,29,23.9,No,High,3134.78
+KFH00989,88,Male,Fracture,Surgery,19,38.3,Yes,Medium,3674.98
+KFH00990,20,Male,Typhoid,Emergency,27,33,No,Medium,2548.23
+KFH00991,81,Female,Heart Disease,Inpatient,11,39.3,No,Medium,2611.51
+KFH00992,73,Male,Diabetes,Inpatient,26,31.4,No,Low,1651.99
+KFH00993,10,Female,Typhoid,Emergency,9,20.3,No,Low,1431.84
+KFH00994,3,Male,Pneumonia,Emergency,25,25.7,Yes,Low,2396.66
+KFH00995,39,Female,Fracture,Surgery,29,32.4,Yes,Medium,3951.81
+KFH00996,86,Male,Appendicitis,Outpatient,16,26.7,No,Medium,2089.77
+KFH00997,35,Female,Typhoid,Emergency,26,24.8,Yes,Medium,2879.72
+KFH00998,81,Female,Typhoid,Inpatient,17,24.2,No,High,2277.9
+KFH00999,29,Male,COVID-19,Inpatient,10,27.2,Yes,Medium,1917.46
+KFH01000,39,Male,Pneumonia,Surgery,27,22,No,Medium,3508.71
+KFH01001,73,Male,Kidney Infection,Inpatient,30,17.1,Yes,High,3353.42
+KFH01002,55,Female,Typhoid,Emergency,22,33.3,No,Medium,2457.46
+KFH01003,33,Male,Kidney Infection,Inpatient,4,33.8,No,Low,1236.16
+KFH01004,24,Female,Malaria,Inpatient,14,37,No,Medium,1537.37
+KFH01005,76,Female,COVID-19,Surgery,11,39.2,Yes,Low,3069.79
+KFH01006,24,Male,Heart Disease,Surgery,28,32.2,No,High,4978.22
+KFH01007,3,Male,Fracture,Inpatient,1,20.1,No,Medium,1597.92
+KFH01008,89,Female,Heart Disease,Emergency,10,30.8,No,High,3480.22
+KFH01009,87,Female,Hypertension,Inpatient,5,19.2,Yes,Low,1251.95
+KFH01010,3,Male,Malaria,Outpatient,16,31.6,Yes,Medium,1603.77
+KFH01011,81,Male,Typhoid,Surgery,25,27.1,No,Medium,3393.59
+KFH01012,3,Male,Pneumonia,Outpatient,24,32.9,No,Medium,1998.21
+KFH01013,3,Female,Heart Disease,Outpatient,7,23.1,No,Low,2094.53
+KFH01014,43,Male,Typhoid,Emergency,14,36.4,No,Low,1659.3
+KFH01015,63,Female,COVID-19,Emergency,8,33.1,Yes,Medium,2543.82
+KFH01016,74,Female,Kidney Infection,Inpatient,9,37.4,No,Medium,1770.75
+KFH01017,15,Female,Heart Disease,Surgery,15,32.7,Yes,Low,3735.33
+KFH01018,37,Male,COVID-19,Surgery,15,21.6,Yes,High,3799.93
+KFH01019,88,Female,Heart Disease,Emergency,5,37.2,No,Medium,2697.56
+KFH01020,87,Female,COVID-19,Outpatient,20,21,Yes,High,2705.9
+KFH01021,62,Male,Pneumonia,Outpatient,6,30.5,Yes,Medium,1505.24
+KFH01022,64,Female,Diabetes,Outpatient,18,17.1,Yes,Medium,1736.66
+KFH01023,34,Female,Pneumonia,Outpatient,27,36.6,Yes,Low,2010.08
+KFH01024,44,Female,Typhoid,Outpatient,4,29.5,No,Medium,1264.57
+KFH01025,44,Female,Malaria,Surgery,29,19.6,Yes,High,4235.31
+KFH01026,7,Female,COVID-19,Inpatient,4,34.8,Yes,High,2336.36
+KFH01027,6,Male,Pneumonia,Inpatient,28,20.9,No,Low,1979.06
+KFH01028,38,Female,Kidney Infection,Emergency,24,36.9,Yes,High,3458.9
+KFH01029,47,Female,Pneumonia,Inpatient,28,20.8,No,Low,2047.62
+KFH01030,32,Female,Appendicitis,Surgery,17,20.1,No,Medium,3407.76
+KFH01031,54,Female,Diabetes,Outpatient,25,34.1,No,Low,1639.61
+KFH01032,18,Female,Fracture,Emergency,29,27,No,Low,2544.77
+KFH01033,57,Male,Malaria,Inpatient,3,24.1,No,Low,858.41
+KFH01034,56,Male,Fracture,Inpatient,22,38.1,Yes,High,3198.16
+KFH01035,8,Female,Fracture,Emergency,29,32.3,No,High,3513.52
+KFH01036,41,Female,Malaria,Surgery,29,28.7,Yes,High,4262.38
+KFH01037,52,Female,Diabetes,Emergency,23,24.3,No,Low,1994.41
+KFH01038,39,Male,Malaria,Surgery,13,33.4,Yes,High,3281.28
+KFH01039,70,Female,Diabetes,Inpatient,17,29.2,No,High,2352.93
+KFH01040,21,Male,Malaria,Surgery,8,36,No,High,3195.65
+KFH01041,55,Male,Malaria,Surgery,9,31,No,Low,2487.07
+KFH01042,7,Male,COVID-19,Surgery,19,33.7,No,Medium,3323.43
+KFH01043,31,Male,Appendicitis,Surgery,10,32,Yes,High,4139.44
+KFH01044,49,Male,Typhoid,Surgery,17,30,No,Medium,2925.38
+KFH01045,13,Male,Fracture,Emergency,3,18.2,No,Low,1640.28
+KFH01046,61,Male,COVID-19,Inpatient,12,32.2,No,High,2497.04
+KFH01047,72,Female,Hypertension,Emergency,21,26.2,No,High,2879.28
+KFH01048,63,Female,Pneumonia,Outpatient,17,19.1,No,Low,1136.33
+KFH01049,66,Male,Diabetes,Emergency,16,16.8,Yes,High,3001.18
+KFH01050,48,Male,Heart Disease,Emergency,4,18.9,No,Low,2470.11
+KFH01051,67,Male,Typhoid,Surgery,10,39.8,No,Medium,2623.93
+KFH01052,63,Male,Pneumonia,Outpatient,26,30.2,Yes,Medium,2288.5
+KFH01053,37,Male,Pneumonia,Emergency,1,18.9,No,Low,1343.78
+KFH01054,6,Female,COVID-19,Surgery,19,26.9,No,Medium,3375.78
+KFH01055,61,Male,Pneumonia,Emergency,25,26.8,No,Low,2217.96
+KFH01056,42,Male,Heart Disease,Emergency,13,21.6,No,Medium,2897.41
+KFH01057,70,Male,COVID-19,Surgery,21,18.1,Yes,High,4077.43
+KFH01058,4,Female,Kidney Infection,Inpatient,21,29.4,Yes,High,3027.73
+KFH01059,70,Male,Heart Disease,Outpatient,25,27.4,Yes,Low,2852.23
+KFH01060,85,Male,Malaria,Surgery,26,20.9,No,Low,2870.03
+KFH01061,69,Female,Fracture,Inpatient,16,36.7,Yes,Medium,2466.1
+KFH01062,56,Male,Fracture,Inpatient,28,28.7,No,Medium,2271.67
+KFH01063,12,Male,Typhoid,Outpatient,10,19.5,No,Low,1035.35
+KFH01064,20,Female,Fracture,Outpatient,2,30.7,No,Low,874.73
+KFH01065,4,Male,Hypertension,Emergency,4,23.7,No,Medium,1565.01
+KFH01066,34,Female,Typhoid,Inpatient,7,21.8,Yes,Medium,1354.64
+KFH01067,66,Female,Typhoid,Surgery,2,23.6,No,Low,1842.64
+KFH01068,62,Male,Fracture,Outpatient,30,37.3,No,High,3175.8
+KFH01069,76,Male,Diabetes,Outpatient,10,29.6,No,Low,991.88
+KFH01070,82,Male,Pneumonia,Surgery,18,39.6,Yes,High,3909.58
+KFH01071,55,Female,Malaria,Inpatient,27,27.2,No,High,2580.37
+KFH01072,22,Male,Malaria,Emergency,9,30.3,No,Medium,1838.74
+KFH01073,81,Male,Heart Disease,Surgery,2,19.9,Yes,Medium,3538.72
+KFH01074,12,Female,Typhoid,Outpatient,24,29.4,No,Medium,1653.04
+KFH01075,27,Female,Appendicitis,Surgery,25,33,No,Low,3734.55
+KFH01076,85,Female,Appendicitis,Outpatient,15,39,No,Low,1785.75
+KFH01077,89,Male,Malaria,Emergency,1,37.6,Yes,Medium,1511.21
+KFH01078,72,Female,Fracture,Inpatient,26,37,Yes,High,3223.63
+KFH01079,4,Female,Typhoid,Surgery,27,25,No,Medium,3485.09
+KFH01080,23,Male,Typhoid,Emergency,12,38.5,No,Low,1774.53
+KFH01081,29,Male,Hypertension,Surgery,7,18.2,No,High,2959.16
+KFH01082,29,Male,COVID-19,Surgery,2,22.7,Yes,Low,2501.59
+KFH01083,26,Female,Typhoid,Surgery,19,28,Yes,High,3661.4
+KFH01084,25,Male,Typhoid,Outpatient,24,17.6,No,High,2497.21
+KFH01085,30,Female,Diabetes,Inpatient,23,32.3,No,High,2627.33
+KFH01086,72,Female,Malaria,Emergency,21,32.2,Yes,Medium,2522.6
+KFH01087,56,Female,Hypertension,Inpatient,22,28.4,No,Medium,2075.63
+KFH01088,67,Male,Diabetes,Inpatient,9,38,No,Medium,1578.65
+KFH01089,1,Female,Diabetes,Surgery,3,37.1,Yes,High,3174.41
+KFH01090,29,Female,Typhoid,Outpatient,7,19.9,No,Low,755.9400000000001
+KFH01091,81,Male,Malaria,Emergency,14,35.4,No,Medium,1998.41
+KFH01092,32,Male,COVID-19,Outpatient,11,36,No,High,2165.53
+KFH01093,31,Male,Heart Disease,Emergency,25,18.3,No,High,4028.82
+KFH01094,16,Male,Malaria,Inpatient,13,23.5,Yes,Low,1413.73
+KFH01095,8,Female,Malaria,Surgery,20,31,Yes,Low,3012.92
+KFH01096,87,Male,Kidney Infection,Inpatient,10,36.4,No,Low,1472.31
+KFH01097,80,Female,Diabetes,Inpatient,15,25.2,No,High,2235.44
+KFH01098,80,Male,Appendicitis,Inpatient,15,28.4,Yes,Low,1952.22
+KFH01099,14,Male,Heart Disease,Inpatient,19,34.9,Yes,High,3694.46
+KFH01100,17,Female,Appendicitis,Emergency,16,33.4,No,Low,2498.58
+KFH01101,32,Male,Malaria,Inpatient,5,23.5,No,High,1807.26
+KFH01102,84,Female,Hypertension,Outpatient,5,27.3,No,Medium,718.95
+KFH01103,48,Male,Kidney Infection,Outpatient,2,21.7,Yes,Medium,1639.1
+KFH01104,45,Male,Diabetes,Outpatient,26,17.6,Yes,High,2611.25
+KFH01105,61,Female,Heart Disease,Surgery,28,29.9,No,High,5052.48
+KFH01106,39,Female,Appendicitis,Outpatient,4,26.9,Yes,Medium,1719.71
+KFH01107,29,Male,Diabetes,Outpatient,15,31,Yes,Medium,1828.53
+KFH01108,43,Female,Diabetes,Emergency,6,35.8,Yes,Medium,1892.59
+KFH01109,2,Male,Appendicitis,Inpatient,18,18.8,No,Medium,2289.15
+KFH01110,25,Female,Malaria,Inpatient,7,20.7,Yes,Low,1383.18
+KFH01111,34,Male,Appendicitis,Outpatient,6,20.7,Yes,Medium,1870.62
+KFH01112,13,Male,Pneumonia,Emergency,21,34.9,Yes,Medium,2690.59
+KFH01113,27,Female,COVID-19,Outpatient,12,35.4,Yes,High,2511.41
+KFH01114,80,Female,Typhoid,Inpatient,5,37.2,Yes,Low,1245.48
+KFH01115,25,Female,Appendicitis,Surgery,20,26.3,Yes,Low,3599.55
+KFH01116,79,Male,Kidney Infection,Surgery,26,19.6,Yes,Low,3481.8
+KFH01117,81,Female,Pneumonia,Emergency,7,33.5,No,High,2685.91
+KFH01118,79,Male,Pneumonia,Emergency,25,37.2,No,Medium,2629.09
+KFH01119,67,Female,Pneumonia,Surgery,23,25,No,High,3819.13
+KFH01120,64,Female,Hypertension,Emergency,21,38.1,Yes,Low,2386.58
+KFH01121,29,Male,COVID-19,Outpatient,13,21.2,No,Medium,1808.66
+KFH01122,74,Male,Appendicitis,Surgery,18,18,Yes,Medium,3902.44
+KFH01123,57,Female,Diabetes,Inpatient,15,28.3,No,Medium,1818.15
+KFH01124,58,Female,Fracture,Emergency,12,35.3,No,Medium,2269.34
+KFH01125,49,Male,Pneumonia,Emergency,8,22.4,Yes,Medium,2278.01
+KFH01126,11,Female,Kidney Infection,Inpatient,26,22.6,Yes,Low,2115.44
+KFH01127,16,Male,Appendicitis,Inpatient,18,20.8,Yes,High,3110.32
+KFH01128,43,Female,Hypertension,Surgery,7,32.9,Yes,High,3183.99
+KFH01129,70,Female,Malaria,Surgery,10,35.7,No,Medium,2640.8
+KFH01130,75,Male,COVID-19,Outpatient,28,25.5,Yes,High,3036.95
+KFH01131,27,Female,Diabetes,Emergency,24,35.5,No,Low,2276.06
+KFH01132,41,Male,Fracture,Emergency,7,26.5,Yes,Medium,2413.13
+KFH01133,18,Male,Hypertension,Inpatient,16,35.4,No,Medium,1940.65
+KFH01134,29,Female,Fracture,Emergency,25,34.7,No,Medium,2977.92
+KFH01135,76,Male,Heart Disease,Inpatient,30,19.3,No,High,3717.2
+KFH01136,81,Female,Fracture,Outpatient,13,17.5,No,Low,1573.19
+KFH01137,61,Male,Appendicitis,Emergency,21,37.5,Yes,Low,3020.24
+KFH01138,14,Male,Malaria,Emergency,1,20.5,Yes,Medium,1465.19
+KFH01139,37,Male,Diabetes,Surgery,22,28.6,No,Low,2994.69
+KFH01140,48,Male,Pneumonia,Surgery,28,37.8,No,Low,3343.14
+KFH01141,15,Male,Kidney Infection,Emergency,16,33.8,No,Low,2073.29
+KFH01142,17,Male,Hypertension,Emergency,27,33,No,Low,2440.08
+KFH01143,78,Female,Heart Disease,Outpatient,17,33.2,No,Medium,2577.99
+KFH01144,26,Male,Pneumonia,Emergency,3,35.8,Yes,High,2464.07
+KFH01145,43,Female,COVID-19,Emergency,19,16.9,Yes,Medium,2673.73
+KFH01146,83,Female,Appendicitis,Surgery,13,30.7,Yes,Medium,3625.37
+KFH01147,32,Male,Heart Disease,Emergency,15,25.2,Yes,High,3644.45
+KFH01148,73,Male,Fracture,Inpatient,8,37.3,Yes,Medium,1883.69
+KFH01149,81,Female,Typhoid,Outpatient,30,27.8,Yes,Medium,2430.34
+KFH01150,10,Male,Kidney Infection,Surgery,14,26.8,No,Low,2692.36
+KFH01151,65,Male,COVID-19,Inpatient,3,31.3,No,Medium,1407.53
+KFH01152,44,Female,Diabetes,Emergency,2,16.3,Yes,High,2003.09
+KFH01153,18,Female,COVID-19,Emergency,15,17.6,Yes,High,2961.32
+KFH01154,57,Male,COVID-19,Surgery,27,19.9,Yes,High,4170.73
+KFH01155,13,Male,Hypertension,Inpatient,18,33.8,Yes,Low,1916.04
+KFH01156,86,Male,Hypertension,Outpatient,15,24.6,Yes,High,2274.18
+KFH01157,5,Male,COVID-19,Inpatient,27,31.2,Yes,Medium,2603.42
+KFH01158,89,Female,COVID-19,Inpatient,20,16.1,No,Low,2100.79
+KFH01159,32,Female,Diabetes,Outpatient,3,16.4,Yes,Low,1019.81
+KFH01160,44,Male,Typhoid,Outpatient,29,18.3,Yes,High,2612.52
+KFH01161,22,Male,Fracture,Inpatient,27,23.9,Yes,High,2949.57
+KFH01162,27,Female,Fracture,Inpatient,8,21.1,No,Medium,2050.41
+KFH01163,23,Male,Fracture,Surgery,1,25.3,No,Low,2249.75
+KFH01164,9,Female,Heart Disease,Surgery,2,17.6,Yes,Medium,3320.55
+KFH01165,39,Female,Typhoid,Outpatient,9,39,No,High,1877.71
+KFH01166,90,Female,Pneumonia,Surgery,6,31.2,No,High,3438.77
+KFH01167,62,Male,Appendicitis,Inpatient,20,37.9,No,Medium,2705.61
+KFH01168,66,Male,Kidney Infection,Inpatient,8,16.5,Yes,Medium,1870.17
+KFH01169,31,Female,Diabetes,Inpatient,2,19.3,No,Medium,1247.87
+KFH01170,26,Male,Fracture,Outpatient,21,16.9,No,High,2676.91
+KFH01171,43,Male,Hypertension,Surgery,21,34.9,Yes,High,3935.57
+KFH01172,54,Female,Malaria,Outpatient,28,33.6,No,Low,1691.74
+KFH01173,27,Male,Diabetes,Outpatient,20,36.9,No,Low,1497
+KFH01174,57,Male,Typhoid,Emergency,3,38.9,Yes,High,2306.99
+KFH01175,19,Male,Pneumonia,Inpatient,6,30.2,Yes,Low,1250.52
+KFH01176,65,Male,Fracture,Emergency,10,19.9,Yes,Low,2115.82
+KFH01177,55,Male,Heart Disease,Outpatient,10,22.8,No,High,2560.85
+KFH01178,26,Female,COVID-19,Inpatient,12,25.6,Yes,Medium,2046.2
+KFH01179,57,Female,Kidney Infection,Emergency,25,19.7,No,Low,2279.87
+KFH01180,49,Female,Typhoid,Surgery,20,28.9,Yes,Medium,3112.07
+KFH01181,49,Female,Hypertension,Emergency,10,25,No,Low,1576.59
+KFH01182,43,Male,COVID-19,Outpatient,5,38,Yes,Low,1507.04
+KFH01183,65,Female,COVID-19,Emergency,30,26,No,High,3590.2
+KFH01184,48,Female,COVID-19,Surgery,21,39.7,Yes,Medium,3500.04
+KFH01185,5,Male,Fracture,Outpatient,7,34.3,No,High,1982.74
+KFH01186,45,Female,Appendicitis,Inpatient,21,25.2,No,High,3128.89
+KFH01187,32,Male,COVID-19,Inpatient,30,35.5,Yes,High,3209.6
+KFH01188,86,Male,Hypertension,Emergency,22,19.5,Yes,High,2980.54
+KFH01189,75,Male,Malaria,Inpatient,25,18.2,No,Medium,2027.01
+KFH01190,76,Male,Kidney Infection,Outpatient,29,26.2,No,Medium,2174.8
+KFH01191,89,Female,Kidney Infection,Emergency,19,23.4,No,High,2989.65
+KFH01192,12,Male,Heart Disease,Surgery,27,19.4,Yes,High,4866.92
+KFH01193,51,Female,Malaria,Outpatient,27,27.8,Yes,Low,1716.84
+KFH01194,90,Female,Kidney Infection,Emergency,21,22.9,No,Low,2292.87
+KFH01195,23,Female,Pneumonia,Outpatient,7,27.7,Yes,Medium,1277.34
+KFH01196,73,Male,Pneumonia,Outpatient,2,34,Yes,Medium,1352.86
+KFH01197,53,Female,Heart Disease,Inpatient,28,31.3,Yes,Medium,3424.14
+KFH01198,11,Female,Typhoid,Surgery,3,24.2,Yes,Medium,2607.3
+KFH01199,63,Male,Malaria,Inpatient,9,34,Yes,High,2126.87
+KFH01200,75,Male,Typhoid,Outpatient,17,35,No,High,2218.7
+KFH01201,67,Female,COVID-19,Emergency,25,24.1,No,Medium,2785.53
+KFH01202,48,Female,Appendicitis,Outpatient,12,32,No,High,2438.47
+KFH01203,8,Female,Appendicitis,Inpatient,1,27,No,High,2239.68
+KFH01204,18,Male,Heart Disease,Inpatient,28,28.7,Yes,Medium,3478.7
+KFH01205,58,Female,Kidney Infection,Emergency,22,20.5,No,Low,2288.36
+KFH01206,82,Female,Malaria,Surgery,22,26.7,No,Medium,3088.37
+KFH01207,79,Male,Appendicitis,Emergency,30,38.6,No,High,3758.76
+KFH01208,90,Male,Fracture,Surgery,20,20.7,Yes,High,4073.95
+KFH01209,74,Male,Pneumonia,Emergency,26,18.1,No,Low,2112.19
+KFH01210,58,Male,COVID-19,Outpatient,8,21.1,Yes,Low,1585.45
+KFH01211,56,Male,Pneumonia,Surgery,29,25.2,No,Low,3086.74
+KFH01212,33,Female,Typhoid,Outpatient,30,28.8,No,Low,1660.85
+KFH01213,89,Female,Diabetes,Inpatient,21,24.2,No,High,2374.79
+KFH01214,83,Female,Diabetes,Outpatient,9,18.8,Yes,Low,1261.39
+KFH01215,12,Female,Heart Disease,Outpatient,24,38.6,No,Low,2567.61
+KFH01216,41,Female,Heart Disease,Inpatient,10,17.5,Yes,Medium,2787.23
+KFH01217,55,Female,Appendicitis,Outpatient,17,31.9,Yes,Low,2008.68
+KFH01218,51,Male,Kidney Infection,Emergency,11,19.5,No,Low,1870.98
+KFH01219,64,Female,Pneumonia,Surgery,5,33.9,Yes,High,3219.26
+KFH01220,41,Female,Kidney Infection,Inpatient,9,39.9,No,High,2516.92
+KFH01221,28,Female,Hypertension,Emergency,2,39.5,No,Low,1164.99
+KFH01222,27,Male,Malaria,Outpatient,28,27.7,No,Medium,1965.68
+KFH01223,85,Male,Malaria,Emergency,11,26.1,No,Medium,1916.55
+KFH01224,51,Female,Typhoid,Surgery,10,32.7,Yes,High,3413.16
+KFH01225,71,Female,Typhoid,Outpatient,11,34.1,Yes,High,1988.27
+KFH01226,39,Female,Pneumonia,Outpatient,15,32.7,No,Low,1297.92
+KFH01227,27,Male,Diabetes,Inpatient,12,33.4,Yes,High,2352.26
+KFH01228,19,Female,Fracture,Outpatient,30,17.4,No,Medium,2419.36
+KFH01229,23,Male,Typhoid,Surgery,19,26.4,Yes,High,3807.67
+KFH01230,52,Male,Malaria,Inpatient,8,25.5,No,High,2082.76
+KFH01231,77,Male,Fracture,Inpatient,25,27.1,No,Medium,2418.6
+KFH01232,81,Female,Appendicitis,Inpatient,4,18.8,Yes,Medium,1839.62
+KFH01233,83,Male,Malaria,Emergency,9,32.6,Yes,High,2482.41
+KFH01234,24,Female,COVID-19,Emergency,10,29.7,Yes,Medium,2708.07
+KFH01235,9,Male,Fracture,Inpatient,13,29.3,No,Low,1620.06
+KFH01236,67,Male,Diabetes,Inpatient,6,36.7,Yes,Low,1520.19
+KFH01237,72,Female,Appendicitis,Inpatient,2,19.1,Yes,High,2626.82
+KFH01238,21,Male,Kidney Infection,Surgery,28,34.1,Yes,Low,3524.07
+KFH01239,65,Female,Appendicitis,Outpatient,14,39.5,Yes,Low,2075.78
+KFH01240,39,Male,Kidney Infection,Surgery,22,28.8,Yes,High,4319.41
+KFH01241,63,Female,Kidney Infection,Surgery,20,28.9,Yes,High,3999
+KFH01242,13,Male,Diabetes,Inpatient,7,19.4,Yes,Low,1252.57
+KFH01243,78,Male,Heart Disease,Surgery,9,19.1,No,Low,3235.7
+KFH01244,71,Female,Hypertension,Emergency,21,37.7,No,Medium,2236.73
+KFH01245,11,Female,Fracture,Outpatient,18,20.9,No,High,2396.59
+KFH01246,90,Male,Appendicitis,Outpatient,14,35.7,No,Medium,1941.63
+KFH01247,49,Male,Heart Disease,Outpatient,3,22.5,Yes,High,2686.59
+KFH01248,71,Female,Typhoid,Surgery,21,18.1,No,Medium,2938.1
+KFH01249,19,Male,Hypertension,Inpatient,4,25.1,Yes,Medium,1443.55
+KFH01250,14,Male,Pneumonia,Surgery,19,35.7,No,Low,2701.79
+KFH01251,68,Female,Heart Disease,Surgery,18,22.5,Yes,Low,3922.21
+KFH01252,22,Female,Fracture,Outpatient,12,35.3,No,Medium,1906.52
+KFH01253,76,Male,Hypertension,Inpatient,22,28.3,Yes,High,2412.25
+KFH01254,17,Male,Fracture,Surgery,2,38,No,High,3364.89
+KFH01255,32,Female,COVID-19,Outpatient,15,39.7,No,High,2495.82
+KFH01256,37,Female,Fracture,Outpatient,10,31.3,Yes,Medium,1761.34
+KFH01257,53,Female,Typhoid,Inpatient,3,33.5,Yes,Low,1288.21
+KFH01258,74,Male,Typhoid,Surgery,18,38.3,Yes,Medium,3261.78
+KFH01259,87,Male,COVID-19,Emergency,17,32.4,Yes,Medium,2607.4
+KFH01260,2,Male,Malaria,Emergency,23,28.8,No,Low,2027.31
+KFH01261,85,Male,Heart Disease,Emergency,6,32.2,Yes,Low,2718
+KFH01262,10,Female,Pneumonia,Surgery,2,26.1,No,Low,2169.62
+KFH01263,48,Male,Appendicitis,Outpatient,27,28.9,Yes,Medium,2839.15
+KFH01264,39,Female,Hypertension,Surgery,7,16.1,No,Low,2080.02
+KFH01265,40,Male,COVID-19,Emergency,2,24.5,No,Medium,1872.82
+KFH01266,39,Female,Typhoid,Inpatient,12,37.4,Yes,Medium,1597.35
+KFH01267,46,Male,Typhoid,Emergency,16,20.7,Yes,Medium,2230.15
+KFH01268,16,Female,Malaria,Outpatient,25,31.8,Yes,Medium,1920.53
+KFH01269,51,Female,Hypertension,Surgery,14,37.4,No,Low,2488.74
+KFH01270,57,Female,Pneumonia,Outpatient,12,33.9,Yes,Medium,1847.83
+KFH01271,26,Male,Diabetes,Surgery,2,19.2,No,High,3006.96
+KFH01272,43,Male,Pneumonia,Outpatient,16,39,No,Low,1458.1
+KFH01273,54,Female,Kidney Infection,Emergency,26,32.4,Yes,Medium,2870.92
+KFH01274,52,Female,Pneumonia,Inpatient,4,35,Yes,Low,1247.03
+KFH01275,45,Male,Diabetes,Inpatient,22,35.9,No,High,2705.07
+KFH01276,2,Female,COVID-19,Surgery,10,27.7,No,Low,2705.51
+KFH01277,80,Male,Kidney Infection,Outpatient,8,22.7,Yes,Medium,1911.82
+KFH01278,90,Male,Fracture,Outpatient,16,33,Yes,High,2702.2
+KFH01279,65,Male,Diabetes,Outpatient,8,18.9,No,Low,937.55
+KFH01280,36,Male,Pneumonia,Emergency,1,30.8,Yes,Low,1506.91
+KFH01281,49,Female,Kidney Infection,Surgery,23,31.2,Yes,Low,3392.02
+KFH01282,44,Female,COVID-19,Inpatient,17,26.2,Yes,Medium,2242.7
+KFH01283,15,Female,Appendicitis,Surgery,12,33.1,Yes,Medium,3680.47
+KFH01284,7,Male,Malaria,Inpatient,2,31.9,No,Low,924.3
+KFH01285,37,Female,Hypertension,Inpatient,14,20.4,No,Medium,1497.68
+KFH01286,43,Female,Typhoid,Inpatient,22,16.3,Yes,Medium,1901.75
+KFH01287,47,Female,Heart Disease,Surgery,8,31.6,Yes,High,4107.66
+KFH01288,50,Male,Typhoid,Outpatient,21,33.8,Yes,Low,1669.96
+KFH01289,76,Male,Diabetes,Emergency,30,18.4,No,Medium,2559.6
+KFH01290,61,Male,Kidney Infection,Outpatient,2,19.1,No,High,1417.15
+KFH01291,33,Female,Appendicitis,Emergency,21,33.2,No,Low,2702.63
+KFH01292,62,Female,Kidney Infection,Inpatient,6,30.4,Yes,Medium,2091.16
+KFH01293,6,Male,Diabetes,Emergency,16,32.4,Yes,Low,2101.27
+KFH01294,57,Female,Kidney Infection,Emergency,13,30.6,Yes,Low,2273.62
+KFH01295,1,Male,Heart Disease,Outpatient,19,32.7,No,High,3183.32
+KFH01296,68,Female,Hypertension,Outpatient,10,33,Yes,Low,1183.13
+KFH01297,29,Male,Kidney Infection,Outpatient,10,16.9,Yes,Medium,1794.79
+KFH01298,18,Female,Malaria,Outpatient,27,21,Yes,Low,1720.17
+KFH01299,84,Female,Heart Disease,Surgery,11,18,No,High,4212.09
+KFH01300,18,Female,Heart Disease,Surgery,11,39.6,Yes,Medium,4026.6
+KFH01301,29,Female,Pneumonia,Surgery,1,28.9,Yes,High,3054.33
+KFH01302,89,Female,Hypertension,Outpatient,27,26.6,No,Medium,2062.05
+KFH01303,27,Female,Pneumonia,Emergency,8,33.5,No,Medium,1916.5
+KFH01304,19,Female,Typhoid,Emergency,6,27,Yes,Low,1484.31
+KFH01305,73,Female,Pneumonia,Surgery,1,23.4,Yes,Medium,2671.38
+KFH01306,88,Male,Typhoid,Outpatient,3,26.2,No,High,1343.18
+KFH01307,52,Male,Kidney Infection,Outpatient,24,34,Yes,High,2833.38
+KFH01308,13,Female,Fracture,Inpatient,4,35.8,Yes,Low,1587.91
+KFH01309,32,Male,Hypertension,Outpatient,21,30.4,Yes,Low,1752.31
+KFH01310,70,Female,Typhoid,Outpatient,5,27.5,No,Low,794.46
+KFH01311,40,Female,COVID-19,Outpatient,8,17.3,No,High,1953.5
+KFH01312,70,Male,Malaria,Inpatient,4,29.1,Yes,High,1973.63
+KFH01313,54,Male,Malaria,Outpatient,1,21.4,No,Low,683.8200000000001
+KFH01314,46,Female,Diabetes,Emergency,22,37.2,Yes,Medium,2732.94
+KFH01315,22,Male,Diabetes,Inpatient,10,24.6,No,Low,1224.24
+KFH01316,47,Male,Malaria,Outpatient,6,26.3,No,High,1384.08
+KFH01317,24,Female,Pneumonia,Surgery,20,35.6,No,Low,2800.19
+KFH01318,35,Female,Appendicitis,Surgery,26,37.8,Yes,Low,3842.37
+KFH01319,20,Male,Appendicitis,Outpatient,13,26.7,No,Low,1630.36
+KFH01320,15,Female,Hypertension,Outpatient,3,23.8,Yes,Low,846.5599999999999
+KFH01321,50,Female,Appendicitis,Emergency,14,27.6,No,High,3154.8
+KFH01322,82,Female,Pneumonia,Outpatient,13,26,No,High,2063.56
+KFH01323,69,Female,Kidney Infection,Outpatient,13,18,No,High,2101.54
+KFH01324,74,Male,Typhoid,Outpatient,12,16.1,Yes,Medium,1518.88
+KFH01325,72,Female,Pneumonia,Inpatient,2,37.9,No,Low,1027.24
+KFH01326,38,Female,Pneumonia,Emergency,8,21.1,Yes,Low,1538.44
+KFH01327,18,Male,Pneumonia,Emergency,24,16.6,No,Medium,2380.28
+KFH01328,7,Male,Heart Disease,Inpatient,16,36.1,Yes,Low,2653.21
+KFH01329,19,Female,Pneumonia,Inpatient,8,17.8,No,Low,1013.84
+KFH01330,24,Female,Pneumonia,Surgery,16,25.9,No,Medium,3091.49
+KFH01331,83,Male,Hypertension,Inpatient,5,17.4,Yes,High,2100.69
+KFH01332,23,Male,Malaria,Emergency,27,26.2,No,High,3127.25
+KFH01333,34,Female,Diabetes,Emergency,30,19.8,Yes,High,3373.39
+KFH01334,49,Male,Diabetes,Emergency,20,17.3,No,Low,2165.39
+KFH01335,72,Male,COVID-19,Emergency,11,31.7,No,Medium,2266.34
+KFH01336,22,Male,Appendicitis,Emergency,7,22.5,Yes,Low,2202.05
+KFH01337,47,Female,Malaria,Outpatient,10,19.9,Yes,Low,995.89
+KFH01338,28,Male,Hypertension,Outpatient,18,20.8,Yes,Low,1417.7
+KFH01339,35,Male,Heart Disease,Inpatient,19,39.7,No,Low,2561.92
+KFH01340,7,Female,Typhoid,Surgery,1,39.5,No,Medium,2357.95
+KFH01341,65,Male,Appendicitis,Emergency,24,24.5,Yes,High,3751.77
+KFH01342,87,Male,Appendicitis,Emergency,29,33.8,Yes,High,3979.37
+KFH01343,20,Male,Heart Disease,Emergency,16,30.1,Yes,Medium,3392.93
+KFH01344,21,Male,COVID-19,Inpatient,29,31,Yes,Low,2607.88
+KFH01345,88,Male,Pneumonia,Surgery,15,34.8,No,Medium,3137.95
+KFH01346,47,Female,Malaria,Emergency,8,21,Yes,Low,1416.81
+KFH01347,73,Female,Typhoid,Inpatient,5,34.4,No,High,1465.53
+KFH01348,12,Female,Typhoid,Emergency,11,20.1,No,Low,1652.62
+KFH01349,9,Female,Heart Disease,Surgery,12,18.1,Yes,High,4256.47
+KFH01350,59,Female,COVID-19,Surgery,25,37,Yes,Low,3508.03
+KFH01351,73,Female,Malaria,Surgery,28,22.9,No,High,3664.09
+KFH01352,88,Male,COVID-19,Surgery,17,36.3,No,Medium,3095.26
+KFH01353,11,Female,Kidney Infection,Emergency,9,37.1,Yes,High,2910.48
+KFH01354,83,Male,Diabetes,Inpatient,5,36.5,No,Medium,1473.6
+KFH01355,21,Female,Typhoid,Outpatient,13,37,Yes,Medium,1535.82
+KFH01356,60,Female,Kidney Infection,Emergency,4,18.1,Yes,Medium,1739.57
+KFH01357,56,Male,Fracture,Surgery,3,23.6,No,Low,2422.45
+KFH01358,90,Female,Typhoid,Surgery,15,16.9,Yes,Medium,3031.52
+KFH01359,19,Male,Appendicitis,Inpatient,20,34.6,Yes,Medium,2545.53
+KFH01360,56,Female,Diabetes,Inpatient,7,36.8,No,Medium,1486
+KFH01361,33,Male,Typhoid,Outpatient,3,22.6,Yes,Medium,1131.16
+KFH01362,58,Female,Kidney Infection,Outpatient,22,37.4,Yes,Low,2036.51
+KFH01363,12,Female,Appendicitis,Surgery,6,20.8,No,Medium,3108.35
+KFH01364,61,Male,Fracture,Surgery,30,32.6,No,Low,3496.23
+KFH01365,72,Male,Typhoid,Outpatient,11,31.9,No,Low,1143.09
+KFH01366,20,Female,Pneumonia,Emergency,28,23.6,No,Medium,2668.98
+KFH01367,67,Male,COVID-19,Outpatient,21,26.8,Yes,Low,1920.72
+KFH01368,28,Male,Fracture,Outpatient,20,25.1,No,Low,1663.51
+KFH01369,25,Male,Appendicitis,Surgery,1,23.2,No,High,3352.81
+KFH01370,16,Female,COVID-19,Emergency,14,24.4,No,High,2725.82
+KFH01371,43,Male,Pneumonia,Emergency,14,25,Yes,High,2814.25
+KFH01372,56,Female,Hypertension,Emergency,21,22.8,Yes,Low,2389.41
+KFH01373,14,Male,Malaria,Emergency,4,27.9,Yes,High,2104.87
+KFH01374,57,Male,Hypertension,Emergency,7,21.3,No,High,2022.87
+KFH01375,49,Male,Diabetes,Emergency,4,24.4,No,Medium,1858.54
+KFH01376,83,Female,Malaria,Surgery,26,21.4,No,Medium,3191.88
+KFH01377,85,Female,Hypertension,Emergency,22,21.8,No,Low,1938.71
+KFH01378,2,Male,Pneumonia,Surgery,27,35.6,No,Medium,3632.79
+KFH01379,22,Female,Diabetes,Emergency,7,30.8,No,Low,1461.33
+KFH01380,74,Female,Pneumonia,Emergency,24,20.2,No,High,3230.12
+KFH01381,21,Female,Diabetes,Inpatient,23,35.2,Yes,High,2877.35
+KFH01382,74,Female,Hypertension,Outpatient,11,20.9,Yes,Low,1115.95
+KFH01383,56,Male,Heart Disease,Outpatient,1,30.8,Yes,High,2902.88
+KFH01384,49,Male,Pneumonia,Emergency,21,31.2,No,Low,2073.31
+KFH01385,31,Male,Hypertension,Outpatient,18,36.2,No,Medium,1720.05
+KFH01386,85,Male,Hypertension,Inpatient,30,19.5,Yes,High,2963.42
+KFH01387,75,Male,Typhoid,Emergency,30,30.3,Yes,Low,2707.71
+KFH01388,37,Female,Pneumonia,Inpatient,3,27.9,No,Low,1196.88
+KFH01389,51,Male,COVID-19,Inpatient,14,17.8,Yes,Low,1802.84
+KFH01390,88,Female,Fracture,Surgery,21,37.8,Yes,Low,3388.59
+KFH01391,39,Male,Pneumonia,Inpatient,4,39.4,No,Medium,1462.2
+KFH01392,79,Male,Pneumonia,Surgery,30,18.9,Yes,High,4163.17
+KFH01393,3,Male,Diabetes,Surgery,4,37.6,Yes,Medium,2989.61
+KFH01394,18,Male,Typhoid,Outpatient,9,22.6,Yes,Low,1089.38
+KFH01395,45,Female,COVID-19,Emergency,14,28.3,No,Low,2007.66
+KFH01396,33,Male,Diabetes,Surgery,13,18.5,No,Low,2534.66
+KFH01397,27,Female,Fracture,Emergency,14,30.3,No,Medium,2299.84
+KFH01398,80,Male,Heart Disease,Emergency,14,20.8,No,Medium,2897.41
+KFH01399,81,Male,COVID-19,Outpatient,29,16.8,No,High,2938.05
+KFH01400,53,Female,Heart Disease,Surgery,13,16.7,Yes,Medium,3874.67
+KFH01401,55,Male,Appendicitis,Outpatient,3,21.2,No,Medium,1450.37
+KFH01402,19,Female,Typhoid,Inpatient,11,32.5,No,Low,1266.9
+KFH01403,60,Female,Diabetes,Inpatient,13,22.8,Yes,High,2476.28
+KFH01404,28,Male,Kidney Infection,Surgery,23,30.6,Yes,High,4259.27
+KFH01405,83,Female,Fracture,Surgery,27,23.7,Yes,Low,3768.03
+KFH01406,64,Female,Malaria,Surgery,14,18.9,No,Low,2333.68
+KFH01407,77,Female,Heart Disease,Emergency,8,29.8,No,Low,2348.38
+KFH01408,83,Male,COVID-19,Surgery,5,36.2,No,Low,2711.16
+KFH01409,69,Male,Appendicitis,Inpatient,3,27.3,No,High,2267.78
+KFH01410,39,Female,Appendicitis,Surgery,13,17.9,No,Medium,3329.4
+KFH01411,79,Male,Fracture,Surgery,23,39.6,No,High,4327.38
+KFH01412,16,Female,Heart Disease,Inpatient,1,21.4,Yes,Low,2063.75
+KFH01413,14,Female,Fracture,Outpatient,6,18.1,No,High,2035.21
+KFH01414,1,Male,Hypertension,Inpatient,4,17.2,No,Low,1135.8
+KFH01415,34,Female,Heart Disease,Emergency,9,32.8,Yes,High,3496.78
+KFH01416,59,Male,Pneumonia,Surgery,28,19.6,No,High,4079.34
+KFH01417,58,Male,Kidney Infection,Outpatient,19,27.5,No,Medium,1904.34
+KFH01418,42,Female,Diabetes,Inpatient,9,34.4,Yes,Medium,1764.23
+KFH01419,72,Male,Diabetes,Inpatient,3,39.3,Yes,Low,1399.92
+KFH01420,2,Male,COVID-19,Emergency,7,27.7,No,Low,1829.44
+KFH01421,76,Female,Hypertension,Emergency,21,19.7,Yes,Low,2233.1
+KFH01422,29,Female,Fracture,Emergency,28,30.9,Yes,Medium,3353.2
+KFH01423,25,Male,Hypertension,Emergency,6,32.5,Yes,Low,1588.71
+KFH01424,60,Male,Typhoid,Outpatient,1,37.5,Yes,Medium,1026.79
+KFH01425,4,Female,Kidney Infection,Emergency,12,22.4,Yes,Medium,2266.62
+KFH01426,56,Male,Pneumonia,Emergency,17,26.3,No,Low,1725.54
+KFH01427,57,Female,Appendicitis,Inpatient,2,31.6,No,Low,1734.74
+KFH01428,38,Male,Fracture,Outpatient,20,22.6,No,High,2430.61
+KFH01429,56,Male,Malaria,Outpatient,4,21.3,Yes,Low,809.95
+KFH01430,74,Female,Diabetes,Inpatient,18,18.4,Yes,High,2478.78
+KFH01431,90,Female,Fracture,Emergency,4,21.3,No,Medium,2053.39
+KFH01432,27,Male,Diabetes,Surgery,21,22.9,No,High,3752.39
+KFH01433,1,Male,Pneumonia,Emergency,24,23.3,Yes,Low,2529.76
+KFH01434,41,Male,Pneumonia,Outpatient,11,37.6,Yes,Low,1308.03
+KFH01435,86,Female,Fracture,Surgery,1,20.3,No,Low,2371.45
+KFH01436,22,Male,Heart Disease,Surgery,16,30,No,Low,3673.91
+KFH01437,61,Male,Malaria,Inpatient,19,32.3,No,Low,1461.66
+KFH01438,68,Male,Pneumonia,Inpatient,4,23.3,No,Medium,1519.38
+KFH01439,63,Female,Kidney Infection,Surgery,22,27.7,No,Medium,3477.42
+KFH01440,2,Female,Hypertension,Surgery,29,28.4,No,Low,3220.19
+KFH01441,35,Male,Pneumonia,Emergency,28,21.3,Yes,Medium,2956.05
+KFH01442,64,Male,Diabetes,Emergency,12,21,Yes,Low,2025.82
+KFH01443,49,Male,Hypertension,Emergency,29,28.6,No,High,3154.72
+KFH01444,45,Female,Fracture,Emergency,9,23.4,Yes,High,2771.38
+KFH01445,67,Female,Heart Disease,Inpatient,14,35.1,No,Medium,2733.46
+KFH01446,15,Male,COVID-19,Outpatient,15,32.3,No,High,2233.34
+KFH01447,72,Male,Hypertension,Emergency,10,17.6,No,Low,1454.57
+KFH01448,59,Male,Diabetes,Surgery,27,30.2,Yes,Medium,3701.36
+KFH01449,40,Male,Fracture,Surgery,22,36,Yes,Medium,3958.59
+KFH01450,18,Female,Hypertension,Outpatient,3,33.1,Yes,High,1718.05
+KFH01451,26,Female,Heart Disease,Inpatient,10,21.3,No,Medium,2493.56
+KFH01452,32,Female,Fracture,Emergency,29,18.4,No,Medium,3206.27
+KFH01453,77,Female,Pneumonia,Emergency,22,37,Yes,High,3243.89
+KFH01454,26,Female,Pneumonia,Emergency,18,20.8,No,Low,2286.2
+KFH01455,39,Female,Kidney Infection,Outpatient,13,34.8,No,Low,1461.86
+KFH01456,18,Female,Appendicitis,Surgery,15,24.5,No,Medium,3261.21
+KFH01457,53,Female,Malaria,Inpatient,25,26.1,Yes,High,2790.9
+KFH01458,39,Male,Heart Disease,Surgery,5,30.9,No,Low,3250.24
+KFH01459,51,Male,Fracture,Inpatient,15,35.4,No,Low,1981.77
+KFH01460,11,Male,Hypertension,Inpatient,11,30.3,No,High,2102.28
+KFH01461,62,Female,Malaria,Inpatient,24,30,Yes,High,2663.39
+KFH01462,27,Male,Kidney Infection,Emergency,5,21.4,Yes,Medium,1960.08
+KFH01463,81,Female,Malaria,Emergency,20,32.5,Yes,Low,2107.42
+KFH01464,1,Male,Heart Disease,Inpatient,17,18.3,Yes,Low,2519.44
+KFH01465,61,Male,Kidney Infection,Emergency,13,17.3,Yes,Medium,2336.84
+KFH01466,52,Female,Pneumonia,Outpatient,27,36.3,No,High,2682.13
+KFH01467,88,Female,Heart Disease,Inpatient,14,19.5,Yes,Low,2707.89
+KFH01468,19,Male,Pneumonia,Outpatient,16,27.5,No,High,2174.86
+KFH01469,13,Female,Appendicitis,Surgery,13,25.3,Yes,Medium,3452.99
+KFH01470,54,Female,Pneumonia,Inpatient,10,27,No,Low,1338.35
+KFH01471,75,Female,Malaria,Emergency,2,37.8,No,Low,1382.6
+KFH01472,60,Female,Hypertension,Inpatient,6,24.6,Yes,Medium,1419.83
+KFH01473,68,Female,Kidney Infection,Inpatient,6,31.7,No,High,2082.42
+KFH01474,73,Female,COVID-19,Outpatient,9,34.8,No,Medium,1585.76
+KFH01475,9,Female,Fracture,Emergency,20,31.8,No,Low,2314.81
+KFH01476,90,Female,Heart Disease,Surgery,19,30.8,No,Low,3841.79
+KFH01477,6,Male,Pneumonia,Outpatient,4,32,No,High,1655.49
+KFH01478,61,Female,Diabetes,Outpatient,4,37.6,Yes,High,1898.34
+KFH01479,50,Female,Typhoid,Inpatient,20,22,Yes,High,2403.5
+KFH01480,10,Female,Appendicitis,Inpatient,30,20.2,Yes,High,3498.51
+KFH01481,58,Female,Pneumonia,Outpatient,7,22.1,No,High,1827.19
+KFH01482,37,Male,Diabetes,Outpatient,14,35.5,Yes,Low,1392.76
+KFH01483,75,Male,Typhoid,Outpatient,2,35.4,Yes,Medium,1364.24
+KFH01484,53,Male,Appendicitis,Outpatient,22,33.5,No,Low,2049.54
+KFH01485,27,Female,Kidney Infection,Surgery,12,30.8,Yes,Low,2960.96
+KFH01486,57,Female,Fracture,Inpatient,19,17.9,No,Low,2011.41
+KFH01487,16,Female,Diabetes,Inpatient,20,29,Yes,Low,1674.8
+KFH01488,38,Female,Fracture,Surgery,3,36.9,Yes,Medium,2843.2
+KFH01489,10,Male,Kidney Infection,Surgery,13,30.8,Yes,High,3590.92
+KFH01490,61,Female,Malaria,Inpatient,11,26.1,Yes,Medium,1792.01
+KFH01491,8,Male,Diabetes,Surgery,30,34.2,Yes,Low,3404.78
+KFH01492,64,Male,Heart Disease,Inpatient,12,39.5,No,High,3434.48
+KFH01493,79,Male,Kidney Infection,Emergency,5,22.5,Yes,Low,1744.79
+KFH01494,5,Female,Kidney Infection,Outpatient,21,24.4,No,Medium,1984.15
+KFH01495,30,Male,Malaria,Inpatient,25,34.8,Yes,High,2929.05
+KFH01496,78,Female,Malaria,Emergency,2,25.3,No,High,2217.23
+KFH01497,17,Female,Fracture,Outpatient,4,26.5,No,Medium,1689.88
+KFH01498,25,Female,Fracture,Inpatient,8,21.6,Yes,Low,1823
+KFH01499,53,Male,Malaria,Outpatient,27,17.4,Yes,Low,1859.89
+KFH01500,57,Male,Hypertension,Inpatient,11,24.4,Yes,Medium,1763.1
