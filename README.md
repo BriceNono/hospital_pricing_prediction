@@ -120,3 +120,4 @@ database can be layered on top of this same `app.py` without changing the
 prediction endpoint.
 # maize_leaves_disease
 # hospital_pricing_prediction
+# hospital_pricing_prediction
